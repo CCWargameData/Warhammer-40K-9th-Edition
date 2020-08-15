@@ -1,0 +1,121 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40k 8th Edition",
+    "armies" : [ {
+      "listOfUnits" : [ {
+        "unitName" : "Ambull",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 18172,
+          "optionName" : "Enormous claws",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 75.0,
+        "unitID" : 18173,
+        "autoAddDictionary" : {
+          "18172" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Borewyrm Infestations",
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 18174,
+          "optionName" : "Borewyrm Infestation",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 1,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 0.0,
+        "unitID" : 18175,
+        "autoAddDictionary" : {
+          "18174" : 1
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Spindle Drones",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 18176,
+          "optionName" : "Spindle Drone",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 65.0,
+        "unitID" : 18177,
+        "autoAddDictionary" : {
+          "18176" : 4
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "The Archivist",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 18178,
+          "optionName" : "Eradicator glove",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 18179,
+          "optionName" : "Atomic dissassembler",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 90.0,
+        "unitID" : 18180,
+        "autoAddDictionary" : {
+          "18179" : 1,
+          "18178" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Monsters and Gribblies",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification", "Other" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ "Power level", "Command points" ]
+  } ]
+}
