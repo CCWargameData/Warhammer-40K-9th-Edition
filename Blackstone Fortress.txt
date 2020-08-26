@@ -6,7 +6,7 @@
         "unitName" : "Janus Draik",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 7252,
+          "optionID" : 7455,
           "optionName" : "Heirloom pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 7253,
+          "optionID" : 7456,
           "optionName" : "Monomolecular rapier",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 7262,
+          "optionID" : 7471,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -36,7 +36,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 7255,
+          "optionID" : 7458,
           "optionName" : "Archeotech grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -47,11 +47,11 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 45.0,
-        "unitID" : 7256,
+        "unitID" : 7459,
         "autoAddDictionary" : {
-          "7253" : 1,
-          "7252" : 1,
-          "7255" : 1
+          "7455" : 1,
+          "7456" : 1,
+          "7458" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -62,7 +62,7 @@
         "unitName" : "UR-025",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 7257,
+          "optionID" : 7460,
           "optionName" : "Power claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -72,7 +72,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 7258,
+          "optionID" : 7461,
           "optionName" : "Mk I assault cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -82,7 +82,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 7262,
+          "optionID" : 7471,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -93,10 +93,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 45.0,
-        "unitID" : 7260,
+        "unitID" : 7463,
         "autoAddDictionary" : {
-          "7257" : 1,
-          "7258" : 1
+          "7461" : 1,
+          "7460" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -107,7 +107,7 @@
         "unitName" : "Espern Locarno",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 7261,
+          "optionID" : 7464,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -117,7 +117,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 7262,
+          "optionID" : 7471,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -127,7 +127,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 7263,
+          "optionID" : 7466,
           "optionName" : "Force-orb cane",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -137,7 +137,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12598,
+          "optionID" : 12804,
           "optionName" : "Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -148,9 +148,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 35.0,
-        "unitID" : 7265,
+        "unitID" : 7468,
         "autoAddDictionary" : {
-          "7263" : 1
+          "7466" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -161,7 +161,7 @@
         "unitName" : "Spindle Drones",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 7266,
+          "optionID" : 7469,
           "optionName" : "Spindle Drone",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -172,11 +172,45 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 65.0,
-        "unitID" : 7267,
+        "unitID" : 7470,
         "autoAddDictionary" : {
-          "7266" : 4
+          "7469" : 4
         },
         "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Neyam Shai Murad",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 7471,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 7472,
+          "optionName" : "Negotiator pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 55.0,
+        "unitID" : 7473,
+        "autoAddDictionary" : {
+          "7472" : 1
+        },
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
           "Command points" : 0
