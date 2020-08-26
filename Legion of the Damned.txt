@@ -3,10 +3,10 @@
     "gameName" : "Warhammer 40k 8th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "Legionnaire (Special Weapon)",
+        "unitName" : "Legionnaire",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 13224,
+          "optionID" : 16465,
           "optionName" : "Krak grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +16,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13225,
+          "optionID" : 16475,
+          "optionName" : "Boltgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16466,
           "optionName" : "Frag grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,14 +36,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13210,
-          "optionName" : "$Legionnaire Special Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13237,
+          "optionID" : 16482,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -44,7 +47,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 25.0,
-        "unitID" : 13212,
+        "unitID" : 16452,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -55,7 +58,7 @@
         "unitName" : "Legionnaire (Heavy Weapon)",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 13224,
+          "optionID" : 16465,
           "optionName" : "Krak grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -65,7 +68,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13225,
+          "optionID" : 16466,
           "optionName" : "Frag grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -75,14 +78,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13215,
+          "optionID" : 16455,
           "optionName" : "$Legionnaire Heavy Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13237,
+          "optionID" : 16482,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -93,7 +96,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 25.0,
-        "unitID" : 13217,
+        "unitID" : 16457,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -102,10 +105,17 @@
         }
       }, {
         "unitName" : "Damned Legionnaires",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16458,
+          "optionName" : "$Legionnaires",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 13218,
+        "unitID" : 16459,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -113,10 +123,10 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Legionnaire",
+        "unitName" : "Legionnaire Sergeant",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 13224,
+          "optionID" : 16465,
           "optionName" : "Krak grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -126,17 +136,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13230,
-          "optionName" : "Boltgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13225,
+          "optionID" : 16466,
           "optionName" : "Frag grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -146,7 +146,60 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13237,
+          "optionID" : 16462,
+          "optionName" : "$Legionnaire Sergeant Pistols",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16463,
+          "optionName" : "$Legionnaire Sergeant Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 25.0,
+        "unitID" : 16464,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Legionnaire (Special Weapon)",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16465,
+          "optionName" : "Krak grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16466,
+          "optionName" : "Frag grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16467,
+          "optionName" : "$Legionnaire Special Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16482,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -157,53 +210,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 25.0,
-        "unitID" : 13223,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Legionnaire Sergeant",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 13224,
-          "optionName" : "Krak grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13225,
-          "optionName" : "Frag grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13226,
-          "optionName" : "$Legionnaire Sergeant Pistols",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13227,
-          "optionName" : "$Legionnaire Sergeant Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 25.0,
-        "unitID" : 13228,
+        "unitID" : 16469,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -212,12 +219,52 @@
         }
       } ],
       "listOfEquipmentOptions" : [ {
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "optionID" : 16470,
+          "optionName" : "Legionnaire",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 16471,
+          "optionName" : "Legionnaire (Heavy Weapon)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 16472,
+          "optionName" : "Legionnaire (Special Weapon)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 16473,
+          "optionName" : "Legionnaire Sergeant",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "equipmentName" : "$Legionnaires"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 9.0,
-          "optionID" : 13229,
+          "optionID" : 16474,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -227,7 +274,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13230,
+          "optionID" : 16475,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -237,7 +284,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13231,
+          "optionID" : 16476,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -247,7 +294,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 16176,
+          "optionID" : 20852,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -257,7 +304,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 16170,
+          "optionID" : 20846,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -267,7 +314,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17994,
+          "optionID" : 22754,
           "optionName" : "Power axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -280,7 +327,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 22.0,
-          "optionID" : 13235,
+          "optionID" : 16480,
           "optionName" : "Multi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -290,7 +337,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 13236,
+          "optionID" : 16481,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -303,7 +350,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 13237,
+          "optionID" : 16482,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -313,7 +360,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 15981,
+          "optionID" : 20657,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -323,7 +370,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 13239,
+          "optionID" : 16484,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -336,7 +383,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 13240,
+          "optionID" : 16485,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -346,7 +393,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 16172,
+          "optionID" : 20848,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -356,7 +403,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 13242,
+          "optionID" : 16487,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

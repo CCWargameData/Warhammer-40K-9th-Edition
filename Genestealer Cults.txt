@@ -3,459 +3,32 @@
     "gameName" : "Warhammer 40k 8th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "Cult Leman Russ",
-        "listOfOptions" : [ {
-          "optionCost" : 30.0,
-          "optionID" : 17725,
-          "optionName" : "Battle Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17726,
-          "optionName" : "$Vehicle Upgrades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17927,
-          "optionName" : "Hunter-killer Missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 17954,
-          "optionName" : "Heavy Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17949,
-          "optionName" : "Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 17730,
-          "optionName" : "Multi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17731,
-          "optionName" : "Vanquisher Battle Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 17841,
-          "optionName" : "Plasma Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17733,
-          "optionName" : "Eradicator Nova Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 17734,
-          "optionName" : "Exterminator Autocannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 17820,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17955,
-          "optionName" : "Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17930,
-          "optionName" : "Heavy Flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 130.0,
-        "unitID" : 17738,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 11,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Atalan Jackals",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17905,
-          "optionName" : "Blasting Charges",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17987,
-          "optionName" : "Grenade Launcher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17989,
-          "optionName" : "Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17990,
-          "optionName" : "Cultist Knife",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17743,
-          "optionName" : "Atalan Incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 14.0,
-          "optionID" : 17744,
-          "optionName" : "Atalan Leader",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 17991,
-          "optionName" : "Demolition Charge",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 17746,
-          "optionName" : "Atalan Wolfquad",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 2,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17747,
-          "optionName" : "Shotgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17949,
-          "optionName" : "Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 17950,
-          "optionName" : "Mining Laser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 14.0,
-          "optionID" : 17750,
-          "optionName" : "Atalan Jackal",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17992,
-          "optionName" : "Improvised Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 17993,
-          "optionName" : "Power Pick",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17753,
-          "optionName" : "$Atalan Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17995,
-          "optionName" : "Power Hammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
+        "unitName" : "Familiar",
+        "listOfOptions" : null,
         "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 17755,
+        "unitCost" : 15.0,
+        "unitID" : 22483,
         "autoAddDictionary" : { },
-        "startingModels" : 1,
+        "startingModels" : 0,
         "listOfCurrencies" : {
-          "Power level" : 4,
+          "Power level" : 0,
           "Command points" : 0
         }
       }, {
-        "unitName" : "Acolyte Iconward",
+        "unitName" : "Cult Scout Sentinels",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17905,
-          "optionName" : "Blasting Charges",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17914,
-          "optionName" : "Rending Claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17942,
-          "optionName" : "Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17759,
-          "optionName" : "$Sacred Relics of the Cult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17946,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 60.0,
-        "unitID" : 17761,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Goliath Rockgrinder",
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 17792,
-          "optionName" : "Heavy Mining Laser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 30.0,
-          "optionID" : 17763,
-          "optionName" : "Clearance Incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17764,
-          "optionName" : "Drilldozer Blade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17765,
-          "optionName" : "Heavy Seismic Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 17861,
-          "optionName" : "Cache of Demolition Charges",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17949,
-          "optionName" : "Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 90.0,
-        "unitID" : 17768,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Brood Brothers Heavy Weapons Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 6.0,
-          "optionID" : 17769,
-          "optionName" : "Brood Brothers Weapons Team",
+          "optionID" : 22484,
+          "optionName" : "Cult Scout Sentinel",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
-            "Power level" : 0,
+            "Power level" : 3,
             "Command points" : 0
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17951,
+          "optionID" : 22711,
           "optionName" : "Missile Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -465,7 +38,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17952,
+          "optionID" : 22712,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -474,9 +47,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 17869,
-          "optionName" : "Frag Grenades",
+          "optionCost" : 5.0,
+          "optionID" : 22581,
+          "optionName" : "Hunter-killer Missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -484,9 +57,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
-          "optionID" : 17953,
-          "optionName" : "Mortar",
+          "optionCost" : 2.0,
+          "optionID" : 22515,
+          "optionName" : "Sentinel Chainsaw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -494,19 +67,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
-          "optionID" : 17954,
-          "optionName" : "Heavy Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17898,
-          "optionName" : "Lasgun",
+          "optionCost" : 5.0,
+          "optionID" : 22565,
+          "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -515,7 +78,17 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17955,
+          "optionID" : 22591,
+          "optionName" : "Heavy Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22715,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -524,215 +97,11 @@
             "Command points" : 0
           }
         } ],
-        "unitCategory" : "",
+        "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 17777,
+        "unitID" : 22492,
         "autoAddDictionary" : {
-          "17769" : 3
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Clamavus",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17942,
-          "optionName" : "Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17779,
-          "optionName" : "Stratagem: Commanding Amplification",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17780,
-          "optionName" : "$Sacred Relics of the Cult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17946,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 60.0,
-        "unitID" : 17782,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Jackal Alphus",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17905,
-          "optionName" : "Blasting Charges",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17784,
-          "optionName" : "Jackal Sniper Rifle",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17989,
-          "optionName" : "Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17786,
-          "optionName" : "$Sacred Relics of the Cult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17946,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 75.0,
-        "unitID" : 17788,
-        "autoAddDictionary" : {
-          "17784" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Achilles Ridgerunners",
-        "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 17789,
-          "optionName" : "Spotter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17951,
-          "optionName" : "Missile Launcher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 17791,
-          "optionName" : "Achilles Ridgerunner",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 4,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17792,
-          "optionName" : "Heavy Mining Laser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17793,
-          "optionName" : "Flare Launcher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17949,
-          "optionName" : "Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17795,
-          "optionName" : "Survey Augur",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17796,
-          "optionName" : "Heavy Mortar",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 17797,
-        "autoAddDictionary" : {
-          "17791" : 1
+          "22484" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -740,10 +109,122 @@
           "Command points" : 0
         }
       }, {
+        "unitName" : "Brood Brothers Infantry Squad",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22493,
+          "optionName" : "$Heavy Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 22494,
+          "optionName" : "Brood Brothers Weapons Team",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22724,
+          "optionName" : "Chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22496,
+          "optionName" : "Brood Brother",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22497,
+          "optionName" : "Cult Vox-caster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22546,
+          "optionName" : "Frag Grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22499,
+          "optionName" : "Brood Brothers Leader",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22500,
+          "optionName" : "Brood Brother (Vox-caster)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22719,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22701,
+          "optionName" : "Lasgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 22503,
+        "autoAddDictionary" : {
+          "22496" : 9,
+          "22499" : 1
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
         "unitName" : "Aberrants",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 17914,
+          "optionID" : 22689,
           "optionName" : "Rending Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -753,7 +234,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17963,
+          "optionID" : 22723,
           "optionName" : "Power Pick",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -763,7 +244,7 @@
           }
         }, {
           "optionCost" : 22.0,
-          "optionID" : 17800,
+          "optionID" : 22506,
           "optionName" : "Aberrant (Hammer)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -773,7 +254,7 @@
           }
         }, {
           "optionCost" : 22.0,
-          "optionID" : 17801,
+          "optionID" : 22507,
           "optionName" : "Aberrant (Pick)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -783,7 +264,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17802,
+          "optionID" : 22508,
           "optionName" : "Heavy Power Hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -794,9 +275,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 17803,
+        "unitID" : 22509,
         "autoAddDictionary" : {
-          "17801" : 5
+          "22507" : 5
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -804,375 +285,10 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Patriarch",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17804,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17805,
-          "optionName" : "$Sacred Relics of the Cult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17806,
-          "optionName" : "Monstrous Rending Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17807,
-          "optionName" : "$Broodmind Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 135.0,
-        "unitID" : 17808,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Locus",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17809,
-          "optionName" : "Hypermorph Tail",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17810,
-          "optionName" : "Locus Blades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17811,
-          "optionName" : "$Sacred Relics of the Cult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17946,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 45.0,
-        "unitID" : 17813,
-        "autoAddDictionary" : {
-          "17810" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Kelermorph",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17814,
-          "optionName" : "Liberator Autostub",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17815,
-          "optionName" : "$Sacred Relics of the Cult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17966,
-          "optionName" : "Cultist Knife",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17946,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 80.0,
-        "unitID" : 17818,
-        "autoAddDictionary" : {
-          "17814" : 3
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Cult Chimera",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17819,
-          "optionName" : "Lasgun Array",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 17820,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17821,
-          "optionName" : "$Vehicle Upgrades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17927,
-          "optionName" : "Hunter-killer Missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 17954,
-          "optionName" : "Heavy Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17949,
-          "optionName" : "Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17930,
-          "optionName" : "Heavy Flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17929,
-          "optionName" : "Multi-laser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Dedicated Transport",
-        "unitCost" : 65.0,
-        "unitID" : 17827,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Primus",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17905,
-          "optionName" : "Blasting Charges",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17829,
-          "optionName" : "Toxin Injector Claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17916,
-          "optionName" : "Bonesword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17831,
-          "optionName" : "Needle Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17832,
-          "optionName" : "$Sacred Relics of the Cult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17833,
-          "optionName" : "Stratagem: The Heart of the Creed",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17834,
-          "optionName" : "Broodcoven Primus",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17946,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 80.0,
-        "unitID" : 17836,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Nexos",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17942,
-          "optionName" : "Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17838,
-          "optionName" : "$Sacred Relics of the Cult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17946,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 55.0,
-        "unitID" : 17840,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "Cult Armoured Sentinels",
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 17841,
+          "optionID" : 22586,
           "optionName" : "Plasma Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1182,7 +298,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17951,
+          "optionID" : 22711,
           "optionName" : "Missile Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1192,7 +308,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 17843,
+          "optionID" : 22512,
           "optionName" : "Cult Armoured Sentinel",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1202,7 +318,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17952,
+          "optionID" : 22712,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1212,7 +328,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17927,
+          "optionID" : 22581,
           "optionName" : "Hunter-killer Missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1222,7 +338,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 17928,
+          "optionID" : 22515,
           "optionName" : "Sentinel Chainsaw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1232,7 +348,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17929,
+          "optionID" : 22565,
           "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1242,7 +358,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17930,
+          "optionID" : 22591,
           "optionName" : "Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1252,7 +368,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17955,
+          "optionID" : 22715,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1263,9 +379,9 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 17850,
+        "unitID" : 22519,
         "autoAddDictionary" : {
-          "17843" : 1
+          "22512" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -1273,105 +389,10 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Purestrain Genestealers",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17914,
-          "optionName" : "Rending Claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17852,
-          "optionName" : "Purestrain Talons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 17853,
-          "optionName" : "Purestrain Genestealer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 0.0,
-        "unitID" : 17854,
-        "autoAddDictionary" : {
-          "17853" : 5
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Sanctus",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17855,
-          "optionName" : "Sanctus Bio-dagger",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17856,
-          "optionName" : "Silencer Sniper Rifle",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17857,
-          "optionName" : "Familiar Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17858,
-          "optionName" : "$Sacred Relics of the Cult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 60.0,
-        "unitID" : 17859,
-        "autoAddDictionary" : {
-          "17857" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "Goliath Truck",
         "listOfOptions" : [ {
           "optionCost" : 30.0,
-          "optionID" : 17860,
+          "optionID" : 22520,
           "optionName" : "Twin Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1381,7 +402,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17861,
+          "optionID" : 22597,
           "optionName" : "Cache of Demolition Charges",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1391,7 +412,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17949,
+          "optionID" : 22709,
           "optionName" : "Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1402,7 +423,7 @@
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 50.0,
-        "unitID" : 17863,
+        "unitID" : 22523,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1410,428 +431,10 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Brood Brothers Infantry Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17864,
-          "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 17865,
-          "optionName" : "Brood Brothers Weapons Team",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17964,
-          "optionName" : "Chainsword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17867,
-          "optionName" : "Brood Brother",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17868,
-          "optionName" : "Cult Vox-caster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17869,
-          "optionName" : "Frag Grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17870,
-          "optionName" : "Brood Brothers Leader",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17871,
-          "optionName" : "Brood Brother (Vox-caster)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17959,
-          "optionName" : "Laspistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17898,
-          "optionName" : "Lasgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 17874,
-        "autoAddDictionary" : {
-          "17870" : 1,
-          "17867" : 9
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Familiar",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 15.0,
-        "unitID" : 17875,
-        "autoAddDictionary" : { },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Hybrid Metamorphs",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17905,
-          "optionName" : "Blasting Charges",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 17911,
-          "optionName" : "Cult Icon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17878,
-          "optionName" : "Rending Claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 11.0,
-          "optionID" : 17879,
-          "optionName" : "Hybrid Metamorph",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 17880,
-          "optionName" : "Hand Flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17881,
-          "optionName" : "Rending Claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 17882,
-          "optionName" : "Hand Flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 17883,
-          "optionName" : "Metamorph Talon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 17884,
-          "optionName" : "Metamorph Claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 17916,
-          "optionName" : "Bonesword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 11.0,
-          "optionID" : 17886,
-          "optionName" : "Metamorph Leader",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17887,
-          "optionName" : "Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17888,
-          "optionName" : "Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17889,
-          "optionName" : "Metamorph Whip",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 0.0,
-        "unitID" : 17890,
-        "autoAddDictionary" : {
-          "17879" : 4,
-          "17886" : 1
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Neophyte Hybrids",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 17905,
-          "optionName" : "Blasting Charges",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17942,
-          "optionName" : "Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17893,
-          "optionName" : "Autogun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17989,
-          "optionName" : "Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 17911,
-          "optionName" : "Cult Icon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 17896,
-          "optionName" : "Neophyte Leader",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17897,
-          "optionName" : "Shotgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17898,
-          "optionName" : "Lasgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 17899,
-          "optionName" : "Neophyte Hybrid (Lasgun)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17900,
-          "optionName" : "$Pistols",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17901,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 17902,
-          "optionName" : "Neophyte Hybrid",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 17903,
-          "optionName" : "Neophyte Hybrid (Shotgun)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Troops",
-        "unitCost" : 0.0,
-        "unitID" : 17904,
-        "autoAddDictionary" : {
-          "17896" : 1,
-          "17902" : 9
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "Acolyte Hybrids",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 17905,
+          "optionID" : 22694,
           "optionName" : "Blasting Charges",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1841,7 +444,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17906,
+          "optionID" : 22525,
           "optionName" : "Lash Whip and Bonesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1851,7 +454,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17942,
+          "optionID" : 22695,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1861,7 +464,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17989,
+          "optionID" : 22749,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1871,7 +474,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17909,
+          "optionID" : 22528,
           "optionName" : "Heavy Rock Drill",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1881,7 +484,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17910,
+          "optionID" : 22529,
           "optionName" : "Heavy Rock Saw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1891,7 +494,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17911,
+          "optionID" : 22698,
           "optionName" : "Cult Icon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1901,7 +504,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17991,
+          "optionID" : 22751,
           "optionName" : "Demolition Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1911,7 +514,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 17913,
+          "optionID" : 22532,
           "optionName" : "Acolyte Leader",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1921,7 +524,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17914,
+          "optionID" : 22689,
           "optionName" : "Rending Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1931,7 +534,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 17915,
+          "optionID" : 22534,
           "optionName" : "Acolyte Hybrid",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1941,7 +544,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17916,
+          "optionID" : 22655,
           "optionName" : "Bonesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1951,7 +554,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 17917,
+          "optionID" : 22536,
           "optionName" : "Acolyte Hybrid (Hand Flamer)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1961,7 +564,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 17918,
+          "optionID" : 22537,
           "optionName" : "Hand Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1971,7 +574,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 17919,
+          "optionID" : 22538,
           "optionName" : "Acolyte Hybrid (Heavy Weapon)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1981,7 +584,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 17920,
+          "optionID" : 22539,
           "optionName" : "Hand Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1991,7 +594,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17921,
+          "optionID" : 22540,
           "optionName" : "Heavy Rock Cutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2001,7 +604,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17966,
+          "optionID" : 22726,
           "optionName" : "Cultist Knife",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2012,10 +615,10 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 17923,
+        "unitID" : 22542,
         "autoAddDictionary" : {
-          "17913" : 1,
-          "17915" : 4
+          "22532" : 1,
+          "22534" : 4
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -2023,20 +626,20 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Cult Scout Sentinels",
+        "unitName" : "Brood Brothers Heavy Weapons Squad",
         "listOfOptions" : [ {
-          "optionCost" : 30.0,
-          "optionID" : 17924,
-          "optionName" : "Cult Scout Sentinel",
+          "optionCost" : 6.0,
+          "optionID" : 22543,
+          "optionName" : "Brood Brothers Weapons Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
-            "Power level" : 3,
+            "Power level" : 0,
             "Command points" : 0
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17951,
+          "optionID" : 22711,
           "optionName" : "Missile Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2046,7 +649,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17952,
+          "optionID" : 22712,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2055,9 +658,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 5.0,
-          "optionID" : 17927,
-          "optionName" : "Hunter-killer Missile",
+          "optionCost" : 0.0,
+          "optionID" : 22546,
+          "optionName" : "Frag Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2065,9 +668,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 2.0,
-          "optionID" : 17928,
-          "optionName" : "Sentinel Chainsaw",
+          "optionCost" : 10.0,
+          "optionID" : 22713,
+          "optionName" : "Mortar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2075,9 +678,19 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 5.0,
-          "optionID" : 17929,
-          "optionName" : "Multi-laser",
+          "optionCost" : 10.0,
+          "optionID" : 22714,
+          "optionName" : "Heavy Bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22701,
+          "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2086,17 +699,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17930,
-          "optionName" : "Heavy Flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 17955,
+          "optionID" : 22715,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2105,15 +708,15 @@
             "Command points" : 0
           }
         } ],
-        "unitCategory" : "Fast Attack",
+        "unitCategory" : "",
         "unitCost" : 0.0,
-        "unitID" : 17932,
+        "unitID" : 22551,
         "autoAddDictionary" : {
-          "17924" : 1
+          "22543" : 3
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
-          "Power level" : 0,
+          "Power level" : 3,
           "Command points" : 0
         }
       }, {
@@ -2121,7 +724,7 @@
         "listOfOptions" : null,
         "unitCategory" : "",
         "unitCost" : 80.0,
-        "unitID" : 17933,
+        "unitID" : 22552,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2129,10 +732,226 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Magus",
+        "unitName" : "Locus",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 17942,
+          "optionID" : 22553,
+          "optionName" : "Hypermorph Tail",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22554,
+          "optionName" : "Locus Blades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22555,
+          "optionName" : "$Sacred Relics of the Cult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22692,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 45.0,
+        "unitID" : 22557,
+        "autoAddDictionary" : {
+          "22554" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Cult Chimera",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22558,
+          "optionName" : "Lasgun Array",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 3.0,
+          "optionID" : 22589,
+          "optionName" : "Storm Bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22560,
+          "optionName" : "$Vehicle Upgrades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22581,
+          "optionName" : "Hunter-killer Missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 22714,
+          "optionName" : "Heavy Bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22709,
+          "optionName" : "Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22591,
+          "optionName" : "Heavy Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22565,
+          "optionName" : "Multi-laser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Dedicated Transport",
+        "unitCost" : 65.0,
+        "unitID" : 22566,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Patriarch",
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 22567,
+          "optionName" : "Familiar",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22568,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22569,
+          "optionName" : "$Sacred Relics of the Cult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22570,
+          "optionName" : "Monstrous Rending Claws",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22571,
+          "optionName" : "$Broodmind Discipline",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 135.0,
+        "unitID" : 22572,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 7,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Jackal Alphus",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22694,
+          "optionName" : "Blasting Charges",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22574,
+          "optionName" : "Jackal Sniper Rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22749,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2142,51 +961,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17935,
-          "optionName" : "Stratagem: The Cult's Psyche",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17936,
+          "optionID" : 22576,
           "optionName" : "$Sacred Relics of the Cult",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17937,
-          "optionName" : "Broodcoven Magus",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17938,
-          "optionName" : "$Broodmind Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17966,
-          "optionName" : "Cultist Knife",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 17946,
+          "optionID" : 22692,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2195,20 +977,233 @@
             "Command points" : 0
           }
         } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 85.0,
-        "unitID" : 17941,
+        "unitCategory" : "",
+        "unitCost" : 75.0,
+        "unitID" : 22578,
+        "autoAddDictionary" : {
+          "22574" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Cult Leman Russ",
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "optionID" : 22579,
+          "optionName" : "Battle Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22580,
+          "optionName" : "$Vehicle Upgrades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22581,
+          "optionName" : "Hunter-killer Missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 22714,
+          "optionName" : "Heavy Bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22709,
+          "optionName" : "Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 22584,
+          "optionName" : "Multi-melta",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22585,
+          "optionName" : "Vanquisher Battle Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 22586,
+          "optionName" : "Plasma Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22587,
+          "optionName" : "Eradicator Nova Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 22588,
+          "optionName" : "Exterminator Autocannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 3.0,
+          "optionID" : 22589,
+          "optionName" : "Storm Bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22715,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22591,
+          "optionName" : "Heavy Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 130.0,
+        "unitID" : 22592,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 5,
+          "Power level" : 11,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Goliath Rockgrinder",
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 22624,
+          "optionName" : "Heavy Mining Laser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 22594,
+          "optionName" : "Clearance Incinerator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22595,
+          "optionName" : "Drilldozer Blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22596,
+          "optionName" : "Heavy Seismic Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 22597,
+          "optionName" : "Cache of Demolition Charges",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22709,
+          "optionName" : "Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 90.0,
+        "unitID" : 22599,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 6,
           "Command points" : 0
         }
       }, {
         "unitName" : "Biophagus",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 17942,
+          "optionID" : 22695,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2218,7 +1213,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17943,
+          "optionID" : 22601,
           "optionName" : "Alchemicus Familiar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2228,14 +1223,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17944,
+          "optionID" : 22602,
           "optionName" : "$Sacred Relics of the Cult",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17945,
+          "optionID" : 22603,
           "optionName" : "Injector Goad",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2245,7 +1240,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17946,
+          "optionID" : 22692,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2256,21 +1251,101 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 40.0,
-        "unitID" : 17947,
+        "unitID" : 22605,
         "autoAddDictionary" : {
-          "17945" : 1
+          "22603" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
           "Command points" : 0
         }
-      } ],
-      "listOfEquipmentOptions" : [ {
+      }, {
+        "unitName" : "Hybrid Metamorphs",
         "listOfOptions" : [ {
-          "optionCost" : 12.0,
-          "optionID" : 17948,
-          "optionName" : "Seismic Cannon",
+          "optionCost" : 0.0,
+          "optionID" : 22694,
+          "optionName" : "Blasting Charges",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 22698,
+          "optionName" : "Cult Icon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22608,
+          "optionName" : "Rending Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 11.0,
+          "optionID" : 22609,
+          "optionName" : "Hybrid Metamorph",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 2.0,
+          "optionID" : 22610,
+          "optionName" : "Hand Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22611,
+          "optionName" : "Rending Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 2.0,
+          "optionID" : 22612,
+          "optionName" : "Hand Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 2.0,
+          "optionID" : 22613,
+          "optionName" : "Metamorph Talon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 3.0,
+          "optionID" : 22614,
+          "optionName" : "Metamorph Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2279,7 +1354,626 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17949,
+          "optionID" : 22655,
+          "optionName" : "Bonesword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 11.0,
+          "optionID" : 22616,
+          "optionName" : "Metamorph Leader",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22617,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22618,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22619,
+          "optionName" : "Metamorph Whip",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 0.0,
+        "unitID" : 22620,
+        "autoAddDictionary" : {
+          "22616" : 1,
+          "22609" : 4
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Achilles Ridgerunners",
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 22621,
+          "optionName" : "Spotter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22711,
+          "optionName" : "Missile Launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 40.0,
+          "optionID" : 22623,
+          "optionName" : "Achilles Ridgerunner",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 4,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22624,
+          "optionName" : "Heavy Mining Laser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22625,
+          "optionName" : "Flare Launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22709,
+          "optionName" : "Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22627,
+          "optionName" : "Survey Augur",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22628,
+          "optionName" : "Heavy Mortar",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 22629,
+        "autoAddDictionary" : {
+          "22623" : 1
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Magus",
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 22630,
+          "optionName" : "Familiar",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22695,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22632,
+          "optionName" : "Stratagem: The Cult's Psyche",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22633,
+          "optionName" : "$Sacred Relics of the Cult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22634,
+          "optionName" : "Broodcoven Magus",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22635,
+          "optionName" : "$Broodmind Discipline",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22726,
+          "optionName" : "Cultist Knife",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22692,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 85.0,
+        "unitID" : 22638,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Sanctus",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22639,
+          "optionName" : "Sanctus Bio-dagger",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22640,
+          "optionName" : "Silencer Sniper Rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22641,
+          "optionName" : "Familiar Claws",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22642,
+          "optionName" : "$Sacred Relics of the Cult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 60.0,
+        "unitID" : 22643,
+        "autoAddDictionary" : {
+          "22641" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Purestrain Genestealers",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22689,
+          "optionName" : "Rending Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22645,
+          "optionName" : "Purestrain Talons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 17.0,
+          "optionID" : 22646,
+          "optionName" : "Purestrain Genestealer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 0.0,
+        "unitID" : 22647,
+        "autoAddDictionary" : {
+          "22646" : 5
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Kelermorph",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22648,
+          "optionName" : "Liberator Autostub",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22649,
+          "optionName" : "$Sacred Relics of the Cult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22726,
+          "optionName" : "Cultist Knife",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22692,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 80.0,
+        "unitID" : 22652,
+        "autoAddDictionary" : {
+          "22648" : 3
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Primus",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22694,
+          "optionName" : "Blasting Charges",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22654,
+          "optionName" : "Toxin Injector Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22655,
+          "optionName" : "Bonesword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22656,
+          "optionName" : "Needle Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22657,
+          "optionName" : "$Sacred Relics of the Cult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22658,
+          "optionName" : "Stratagem: The Heart of the Creed",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22659,
+          "optionName" : "Broodcoven Primus",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22692,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 80.0,
+        "unitID" : 22661,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Clamavus",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22695,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22663,
+          "optionName" : "Stratagem: Commanding Amplification",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22664,
+          "optionName" : "$Sacred Relics of the Cult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22692,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 60.0,
+        "unitID" : 22666,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Atalan Jackals",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22694,
+          "optionName" : "Blasting Charges",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22747,
+          "optionName" : "Grenade Launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22749,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22750,
+          "optionName" : "Cultist Knife",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 22671,
+          "optionName" : "Atalan Incinerator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 14.0,
+          "optionID" : 22672,
+          "optionName" : "Atalan Leader",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 22751,
+          "optionName" : "Demolition Charge",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 22674,
+          "optionName" : "Atalan Wolfquad",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 2,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22675,
+          "optionName" : "Shotgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22709,
           "optionName" : "Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2289,7 +1983,333 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17950,
+          "optionID" : 22710,
+          "optionName" : "Mining Laser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 14.0,
+          "optionID" : 22678,
+          "optionName" : "Atalan Jackal",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22752,
+          "optionName" : "Improvised Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 22753,
+          "optionName" : "Power Pick",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22681,
+          "optionName" : "$Atalan Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22755,
+          "optionName" : "Power Hammer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 22683,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Nexos",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22695,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22685,
+          "optionName" : "$Sacred Relics of the Cult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22692,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 55.0,
+        "unitID" : 22687,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Acolyte Iconward",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22694,
+          "optionName" : "Blasting Charges",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22689,
+          "optionName" : "Rending Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22695,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22691,
+          "optionName" : "$Sacred Relics of the Cult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22692,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 60.0,
+        "unitID" : 22693,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Neophyte Hybrids",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 22694,
+          "optionName" : "Blasting Charges",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22695,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22696,
+          "optionName" : "Autogun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22749,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 22698,
+          "optionName" : "Cult Icon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 22699,
+          "optionName" : "Neophyte Leader",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22700,
+          "optionName" : "Shotgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22701,
+          "optionName" : "Lasgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 22702,
+          "optionName" : "Neophyte Hybrid (Lasgun)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22703,
+          "optionName" : "$Pistols",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 22704,
+          "optionName" : "$Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 22705,
+          "optionName" : "Neophyte Hybrid",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 22706,
+          "optionName" : "Neophyte Hybrid (Shotgun)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 0.0,
+        "unitID" : 22707,
+        "autoAddDictionary" : {
+          "22705" : 9,
+          "22699" : 1
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 12.0,
+          "optionID" : 22708,
+          "optionName" : "Seismic Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 22709,
+          "optionName" : "Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 22710,
           "optionName" : "Mining Laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2302,7 +2322,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 17951,
+          "optionID" : 22711,
           "optionName" : "Missile Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2312,7 +2332,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17952,
+          "optionID" : 22712,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2322,7 +2342,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17953,
+          "optionID" : 22713,
           "optionName" : "Mortar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2332,7 +2352,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17954,
+          "optionID" : 22714,
           "optionName" : "Heavy Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2342,7 +2362,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 17955,
+          "optionID" : 22715,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2355,7 +2375,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 2.0,
-          "optionID" : 17986,
+          "optionID" : 22746,
           "optionName" : "Bolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2365,7 +2385,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17989,
+          "optionID" : 22749,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2375,7 +2395,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 17958,
+          "optionID" : 22718,
           "optionName" : "Web Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2385,7 +2405,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17959,
+          "optionID" : 22719,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2398,7 +2418,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 17987,
+          "optionID" : 22747,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2408,7 +2428,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17961,
+          "optionID" : 22721,
           "optionName" : "Webber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2418,7 +2438,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17962,
+          "optionID" : 22722,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2431,7 +2451,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 17963,
+          "optionID" : 22723,
           "optionName" : "Power Pick",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2441,7 +2461,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17964,
+          "optionID" : 22724,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2451,7 +2471,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17965,
+          "optionID" : 22725,
           "optionName" : "Power Maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2461,7 +2481,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17966,
+          "optionID" : 22726,
           "optionName" : "Cultist Knife",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2474,7 +2494,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 17967,
+          "optionID" : 22727,
           "optionName" : "Dozer Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2484,7 +2504,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17968,
+          "optionID" : 22728,
           "optionName" : "Track Guards",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2494,7 +2514,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17969,
+          "optionID" : 22729,
           "optionName" : "Augur Array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2507,7 +2527,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 17970,
+          "optionID" : 22730,
           "optionName" : "Mark of the Clawed Omnissiah",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2517,7 +2537,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17971,
+          "optionID" : 22731,
           "optionName" : "Elixir of the Prime Specimen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2527,7 +2547,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17972,
+          "optionID" : 22732,
           "optionName" : "Icon of the Cult Ascendant",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2537,7 +2557,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17973,
+          "optionID" : 22733,
           "optionName" : "Oppressor's Bane",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2547,7 +2567,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17974,
+          "optionID" : 22734,
           "optionName" : "Vial of the Grandsire's Blood",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2557,7 +2577,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17975,
+          "optionID" : 22735,
           "optionName" : "Sword of the Void's Eye",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2567,7 +2587,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17976,
+          "optionID" : 22736,
           "optionName" : "The Gift from Beyond",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2577,7 +2597,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17977,
+          "optionID" : 22737,
           "optionName" : "Scourge of Distant Stars",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2587,7 +2607,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17978,
+          "optionID" : 22738,
           "optionName" : "Amulet of the Voidwyrm",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2597,7 +2617,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17979,
+          "optionID" : 22739,
           "optionName" : "Blessed Sledgehammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2607,7 +2627,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17980,
+          "optionID" : 22740,
           "optionName" : "Metallophagic Stave",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2617,7 +2637,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17981,
+          "optionID" : 22741,
           "optionName" : "Dagger of Swift Sacrifice",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2627,7 +2647,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17982,
+          "optionID" : 22742,
           "optionName" : "Vockor's Talisman",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2637,7 +2657,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17983,
+          "optionID" : 22743,
           "optionName" : "Sword of the Four-armed Emperor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2647,7 +2667,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17984,
+          "optionID" : 22744,
           "optionName" : "The Crouchling",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2657,7 +2677,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17985,
+          "optionID" : 22745,
           "optionName" : "Reliquary of Saint Tenndarc",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2673,7 +2693,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 2.0,
-          "optionID" : 17986,
+          "optionID" : 22746,
           "optionName" : "Bolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2683,7 +2703,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17987,
+          "optionID" : 22747,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2693,7 +2713,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17988,
+          "optionID" : 22748,
           "optionName" : "Autogun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2703,7 +2723,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17989,
+          "optionID" : 22749,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2713,7 +2733,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17990,
+          "optionID" : 22750,
           "optionName" : "Cultist Knife",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2723,7 +2743,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17991,
+          "optionID" : 22751,
           "optionName" : "Demolition Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2733,7 +2753,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17992,
+          "optionID" : 22752,
           "optionName" : "Improvised Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2743,7 +2763,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17993,
+          "optionID" : 22753,
           "optionName" : "Power Pick",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2753,7 +2773,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17994,
+          "optionID" : 22754,
           "optionName" : "Power axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2763,7 +2783,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 17995,
+          "optionID" : 22755,
           "optionName" : "Power Hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2773,7 +2793,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17996,
+          "optionID" : 22756,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2786,7 +2806,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 17997,
+          "optionID" : 22757,
           "optionName" : "5. Psychic Stimulus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2796,7 +2816,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17998,
+          "optionID" : 22758,
           "optionName" : "6. Might From Beyond",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2806,7 +2826,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17999,
+          "optionID" : 22759,
           "optionName" : "3. Psionic Blast",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2816,7 +2836,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18000,
+          "optionID" : 22760,
           "optionName" : "Bladed Cog: Undying Vigour",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2826,7 +2846,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18001,
+          "optionID" : 22761,
           "optionName" : "1. Mass Hypnosis",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2836,7 +2856,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18002,
+          "optionID" : 22762,
           "optionName" : "Hivecult: Synaptic Blast",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2846,7 +2866,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18003,
+          "optionID" : 22763,
           "optionName" : "Rusted Claw: Unescapable Decay",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2856,7 +2876,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18004,
+          "optionID" : 22764,
           "optionName" : "4. Mental Onslaught",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2866,7 +2886,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18005,
+          "optionID" : 22765,
           "optionName" : "Four-armed Emperor: Undermine",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2876,7 +2896,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18006,
+          "optionID" : 22766,
           "optionName" : "2. Mind Control",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2886,7 +2906,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18007,
+          "optionID" : 22767,
           "optionName" : "Pauper Princes: Last Gasp",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2896,7 +2916,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18008,
+          "optionID" : 22768,
           "optionName" : "Twisted Helix: Muagenic Deviation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

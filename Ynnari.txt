@@ -3,61 +3,10 @@
     "gameName" : "Warhammer 40k 8th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "The Yncarne",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 1273,
-          "optionName" : "$Revenant Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1286,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1298,
-          "optionName" : "Fear of the Grave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1276,
-          "optionName" : "Vilith-zhar, the Sword of Souls",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 290.0,
-        "unitID" : 1277,
-        "autoAddDictionary" : {
-          "1276" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 15,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "The Visarch",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 1286,
+          "optionID" : 1345,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -67,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1279,
+          "optionID" : 1335,
           "optionName" : "Forceshield",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -77,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1280,
+          "optionID" : 1336,
           "optionName" : "Asu-var, the Sword of Silent Screams",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -87,7 +36,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1299,
+          "optionID" : 1360,
           "optionName" : "Master of Death",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -98,11 +47,8 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 85.0,
-        "unitID" : 1282,
-        "autoAddDictionary" : {
-          "1279" : 1,
-          "1280" : 1
-        },
+        "unitID" : 1338,
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -112,14 +58,14 @@
         "unitName" : "Yvraine",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 1283,
+          "optionID" : 1339,
           "optionName" : "$Revenant Discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1284,
+          "optionID" : 1340,
           "optionName" : "Kha-vir, the Sword of Sorrows.",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -129,7 +75,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1296,
+          "optionID" : 1357,
           "optionName" : "Warden of Souls",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -139,7 +85,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1286,
+          "optionID" : 1345,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -150,20 +96,67 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 120.0,
-        "unitID" : 1287,
-        "autoAddDictionary" : {
-          "1284" : 1
-        },
+        "unitID" : 1343,
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 6,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "The Yncarne",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 1344,
+          "optionName" : "$Revenant Discipline",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1345,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1359,
+          "optionName" : "Fear of the Grave",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1347,
+          "optionName" : "Vilith-zhar, the Sword of Souls",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 290.0,
+        "unitID" : 1348,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 15,
           "Command points" : 0
         }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 1288,
+          "optionID" : 1349,
           "optionName" : "1. Gaze of Ynnead",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -173,7 +166,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1289,
+          "optionID" : 1350,
           "optionName" : "2. Storm of Whispers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -183,7 +176,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1290,
+          "optionID" : 1351,
           "optionName" : "6. Ancestors' Grace",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -193,7 +186,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1291,
+          "optionID" : 1352,
           "optionName" : "4. Unbind Souls",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -203,7 +196,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1292,
+          "optionID" : 1353,
           "optionName" : "5. Shield of Ynnead",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -213,7 +206,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1293,
+          "optionID" : 1354,
           "optionName" : "3. Word of the Phoenix",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -226,7 +219,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 1294,
+          "optionID" : 1355,
           "optionName" : "Favoured of Ynnead",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -236,7 +229,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1295,
+          "optionID" : 1356,
           "optionName" : "Walker of Many Paths",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -246,7 +239,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1296,
+          "optionID" : 1357,
           "optionName" : "Warden of Souls",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -256,7 +249,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1297,
+          "optionID" : 1358,
           "optionName" : "Lord of Rebirth",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -266,7 +259,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1298,
+          "optionID" : 1359,
           "optionName" : "Fear of the Grave",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -276,7 +269,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1299,
+          "optionID" : 1360,
           "optionName" : "Master of Death",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

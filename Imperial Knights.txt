@@ -3,11 +3,21 @@
     "gameName" : "Warhammer 40k 8th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "Armiger Warglaives",
-        "listOfOptions" : null,
+        "unitName" : "Armiger Helverins",
+        "listOfOptions" : [ {
+          "optionCost" : 170.0,
+          "optionID" : 15558,
+          "optionName" : "Armiger Helverin",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 9,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 0.0,
-        "unitID" : 12471,
+        "unitID" : 15559,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -15,17 +25,39 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Armiger Warglaive",
+        "unitName" : "Armiger Warglaives",
+        "listOfOptions" : [ {
+          "optionCost" : 150.0,
+          "optionID" : 15560,
+          "optionName" : "Armiger Warglaive",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 9,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 0.0,
+        "unitID" : 15561,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Armiger Helverin",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 12472,
+          "optionID" : 15562,
           "optionName" : "$Heirlooms of the Noble Houses",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12712,
+          "optionID" : 15802,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -35,8 +67,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12474,
-          "optionName" : "Reaper Chain-Cleaver",
+          "optionID" : 15564,
+          "optionName" : "Armiger Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -45,7 +77,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12713,
+          "optionID" : 15804,
           "optionName" : "Character (Knight Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -55,7 +87,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12714,
+          "optionID" : 15805,
           "optionName" : "Qualities and Burdens",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -65,14 +97,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12477,
+          "optionID" : 15567,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 12667,
+          "optionID" : 15714,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -82,17 +114,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12479,
-          "optionName" : "Thermal Spear",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
+          "optionID" : 15809,
           "optionName" : "Freeblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -102,7 +124,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 12747,
+          "optionID" : 15837,
           "optionName" : "Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -112,8 +134,8 @@
           }
         } ],
         "unitCategory" : "",
-        "unitCost" : 150.0,
-        "unitID" : 12482,
+        "unitCost" : 170.0,
+        "unitID" : 15571,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -121,22 +143,17 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Armiger Helverins",
-        "listOfOptions" : null,
-        "unitCategory" : "Lords of War",
-        "unitCost" : 0.0,
-        "unitID" : 12483,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canis Rex",
+        "unitName" : "Armiger Moirax",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 12712,
+          "optionID" : 15572,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -146,7 +163,116 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12708,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15576,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15577,
+          "optionName" : "Moirax Siege Claw w/ Rad-Cleanser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 15578,
+          "optionName" : "Moirax Conversion Beam Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 15579,
+          "optionName" : "Graviton Pulsar",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 15580,
+          "optionName" : "Lightning Lock",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 15582,
+          "optionName" : "Volkite Veuglaire",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 155.0,
+        "unitID" : 15583,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 9,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Canis Rex",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
           "optionName" : "Titanic Feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -156,7 +282,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12486,
+          "optionID" : 15586,
           "optionName" : "Archeotech Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -166,7 +292,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12487,
+          "optionID" : 15587,
           "optionName" : "Freedom's Hand",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -176,7 +302,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 12745,
+          "optionID" : 15835,
           "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -186,7 +312,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12502,
+          "optionID" : 15745,
           "optionName" : "Las-Impulsor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -197,134 +323,7 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 430.0,
-        "unitID" : 12490,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 22,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Knight Preceptor",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12492,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12493,
-          "optionName" : "$Knight Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12495,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12497,
-          "optionName" : "$Shoulder Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12502,
-          "optionName" : "Las-Impulsor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12503,
-          "optionName" : "$Questoris Carapace Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 370.0,
-        "unitID" : 12504,
+        "unitID" : 15590,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -336,7 +335,7 @@
         "listOfOptions" : null,
         "unitCategory" : "",
         "unitCost" : 85.0,
-        "unitID" : 12505,
+        "unitID" : 15591,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -344,250 +343,17 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Knight Warden",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12507,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12508,
-          "optionName" : "$Knight Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12510,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12512,
-          "optionName" : "$Shoulder Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12683,
-          "optionName" : "Avenger Gatling Cannon w/ Heavy Flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12518,
-          "optionName" : "$Questoris Carapace Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 395.0,
-        "unitID" : 12519,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 23,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Cerastus Knight-Acheron",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12520,
-          "optionName" : "Reaper Chainfist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12521,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12523,
-          "optionName" : "Acheron Flame Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12527,
-          "optionName" : "Twin Heavy Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12528,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 520.0,
-        "unitID" : 12530,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 26,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "Cerastus Knight-Castigator",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 12531,
+          "optionID" : 15592,
           "optionName" : "$Heirlooms of the Noble Houses",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12712,
+          "optionID" : 15802,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -597,7 +363,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12533,
+          "optionID" : 15594,
           "optionName" : "Tempest Warblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -607,7 +373,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12713,
+          "optionID" : 15804,
           "optionName" : "Character (Knight Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -617,7 +383,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12714,
+          "optionID" : 15805,
           "optionName" : "Qualities and Burdens",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -627,7 +393,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12708,
+          "optionID" : 15806,
           "optionName" : "Titanic Feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -637,7 +403,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12537,
+          "optionID" : 15598,
           "optionName" : "Castigator Bolt Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -647,14 +413,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12538,
+          "optionID" : 15599,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12720,
+          "optionID" : 15809,
           "optionName" : "Freeblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -665,1422 +431,25 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 460.0,
-        "unitID" : 12540,
+        "unitID" : 15601,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 23,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Knight Castellan",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12542,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12559,
-          "optionName" : "Twin Meltagun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12560,
-          "optionName" : "Two Siegebreaker Cannons and Two Shieldbreaker Missiles",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12545,
-          "optionName" : "Plasma Decimator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12547,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12569,
-          "optionName" : "One Siegebreaker Cannon and Four Shieldbreaker Missiles",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12554,
-          "optionName" : "Volcano Lance",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 545.0,
-        "unitID" : 12555,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 32,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Knight Valiant",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12557,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12558,
-          "optionName" : "Conflagration Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12559,
-          "optionName" : "Twin Meltagun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12560,
-          "optionName" : "Two Siegebreaker Cannons and Two Shieldbreaker Missiles",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12562,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12564,
-          "optionName" : "Thundercoil Harpoon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12569,
-          "optionName" : "One Siegebreaker Cannon and Four Shieldbreaker Missiles",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 535.0,
-        "unitID" : 12570,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 31,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Questoris Knight Styrix",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 12768,
-          "optionName" : "Reaper Chainsword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12573,
-          "optionName" : "Volkite Chieorovile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12574,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12576,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12578,
-          "optionName" : "Graviton Crusher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12659,
-          "optionName" : "Hekaton Siege Claw w/ Twin Rad-Cleanser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 475.0,
-        "unitID" : 12584,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 23,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Knight Paladin",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12586,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12587,
-          "optionName" : "$Knight Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12674,
-          "optionName" : "Rapid-Fire Battle Cannon w/ Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12590,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12592,
-          "optionName" : "$Shoulder Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12597,
-          "optionName" : "$Questoris Carapace Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 310.0,
-        "unitID" : 12598,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 24,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Cerastus Knight-Lancer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12599,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12604,
-          "optionName" : "Shock Blast",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12605,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12606,
-          "optionName" : "Cerastus Shock Lance",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 460.0,
-        "unitID" : 12608,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 23,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Acastus Knight Porphyrion",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12609,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 45.0,
-          "optionID" : 12610,
-          "optionName" : "Helios Defence Missiles",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 12611,
-          "optionName" : "Autocannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 12612,
-          "optionName" : "Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12614,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12619,
-          "optionName" : "Twin Magna Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 12771,
-          "optionName" : "Ironstorm Missile Pod",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 820.0,
-        "unitID" : 12621,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 45,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Knight Gallant",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 12768,
-          "optionName" : "Reaper Chainsword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12624,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 35.0,
-          "optionID" : 12769,
-          "optionName" : "Thunderstrike gauntlet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12627,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12629,
-          "optionName" : "$Shoulder Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12634,
-          "optionName" : "$Questoris Carapace Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 330.0,
-        "unitID" : 12635,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 22,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Acastus Knight Asterius",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12636,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12640,
-          "optionName" : "Twin Conversion Beam Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12642,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12643,
-          "optionName" : "Volkite Culverin",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12644,
-          "optionName" : "Karacnos Mortar Battery",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 850.0,
-        "unitID" : 12646,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 43,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Questoris Knight Magaera",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 12768,
-          "optionName" : "Reaper Chainsword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12649,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12650,
-          "optionName" : "Lightning Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12652,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12658,
-          "optionName" : "Phased Plasma-Fusil",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12659,
-          "optionName" : "Hekaton Siege Claw w/ Twin Rad-Cleanser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 490.0,
-        "unitID" : 12660,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 24,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Armiger Helverin",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12661,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12663,
-          "optionName" : "Armiger Autocannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12666,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 12667,
-          "optionName" : "Meltagun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 12747,
-          "optionName" : "Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 170.0,
-        "unitID" : 12670,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Knight Crusader",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 75.0,
-          "optionID" : 12698,
-          "optionName" : "Thermal Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12673,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12674,
-          "optionName" : "Rapid-Fire Battle Cannon w/ Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12720,
-          "optionName" : "Freeblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12676,
-          "optionName" : "$Heirlooms of the Noble Houses",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12712,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12678,
-          "optionName" : "$Shoulder Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
-          "optionName" : "Character (Knight Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12714,
-          "optionName" : "Qualities and Burdens",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
-          "optionName" : "Titanic Feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12683,
-          "optionName" : "Avenger Gatling Cannon w/ Heavy Flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12684,
-          "optionName" : "$Questoris Carapace Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 395.0,
-        "unitID" : 12685,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 26,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Armiger Moiraxes",
-        "listOfOptions" : null,
-        "unitCategory" : "Lords of War",
-        "unitCost" : 0.0,
-        "unitID" : 12686,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
           "Command points" : 0
         }
       }, {
         "unitName" : "Cerastus Knight-Atrapos",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 12687,
+          "optionID" : 15602,
           "optionName" : "$Heirlooms of the Noble Houses",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12712,
+          "optionID" : 15802,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2090,7 +459,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12689,
+          "optionID" : 15604,
           "optionName" : "Atrapos Lascutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2100,7 +469,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12713,
+          "optionID" : 15804,
           "optionName" : "Character (Knight Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2110,7 +479,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12714,
+          "optionID" : 15805,
           "optionName" : "Qualities and Burdens",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2120,7 +489,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12708,
+          "optionID" : 15806,
           "optionName" : "Titanic Feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2130,14 +499,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12693,
+          "optionID" : 15608,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12694,
+          "optionID" : 15609,
           "optionName" : "Graviton Singularity Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2147,7 +516,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12720,
+          "optionID" : 15809,
           "optionName" : "Freeblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2158,7 +527,7 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 580.0,
-        "unitID" : 12696,
+        "unitID" : 15611,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2166,44 +535,47 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Knight Errant",
+        "unitName" : "Acastus Knight Porphyrion",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 12697,
-          "optionName" : "Character (Heirloom of the House)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 75.0,
-          "optionID" : 12698,
-          "optionName" : "Thermal Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12699,
+          "optionID" : 15612,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 12700,
-          "optionName" : "$Knight Melee Weapons",
+          "optionCost" : 45.0,
+          "optionID" : 15613,
+          "optionName" : "Helios Defence Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 15614,
+          "optionName" : "Autocannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 15615,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12720,
+          "optionID" : 15809,
           "optionName" : "Freeblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2213,14 +585,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12702,
+          "optionID" : 15617,
           "optionName" : "$Heirlooms of the Noble Houses",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12712,
+          "optionID" : 15802,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2230,14 +602,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12704,
-          "optionName" : "$Shoulder Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12713,
+          "optionID" : 15804,
           "optionName" : "Character (Knight Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2247,7 +612,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12714,
+          "optionID" : 15805,
           "optionName" : "Qualities and Burdens",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2257,17 +622,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12707,
-          "optionName" : "Character (Exalted Court)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 12708,
+          "optionID" : 15806,
           "optionName" : "Titanic Feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2277,33 +632,80 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12709,
-          "optionName" : "$Questoris Carapace Weapons",
+          "optionID" : 15622,
+          "optionName" : "Twin Magna Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 15861,
+          "optionName" : "Ironstorm Missile Pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 310.0,
-        "unitID" : 12710,
+        "unitCost" : 820.0,
+        "unitID" : 15624,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 23,
+          "Power level" : 45,
           "Command points" : 0
         }
       }, {
-        "unitName" : "Armiger Moirax",
+        "unitName" : "Knight Warden",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 12711,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15626,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15627,
+          "optionName" : "$Knight Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15629,
           "optionName" : "$Heirlooms of the Noble Houses",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12712,
+          "optionID" : 15802,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2313,7 +715,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12713,
+          "optionID" : 15631,
+          "optionName" : "$Shoulder Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
           "optionName" : "Character (Knight Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2323,7 +732,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12714,
+          "optionID" : 15805,
           "optionName" : "Qualities and Burdens",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2333,45 +742,74 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12715,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15691,
+          "optionName" : "Avenger Gatling Cannon w/ Heavy Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15637,
+          "optionName" : "$Questoris Carapace Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 395.0,
+        "unitID" : 15638,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 23,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Knight Valiant",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15640,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12716,
-          "optionName" : "Moirax Siege Claw w/ Rad-Cleanser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 12717,
-          "optionName" : "Moirax Conversion Beam Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 12718,
-          "optionName" : "Graviton Pulsar",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 12719,
-          "optionName" : "Lightning Lock",
+          "optionID" : 15641,
+          "optionName" : "Conflagration Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2380,7 +818,709 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12720,
+          "optionID" : 15721,
+          "optionName" : "Twin Meltagun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15722,
+          "optionName" : "Two Siegebreaker Cannons and Two Shieldbreaker Missiles",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15645,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15647,
+          "optionName" : "Thundercoil Harpoon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15731,
+          "optionName" : "One Siegebreaker Cannon and Four Shieldbreaker Missiles",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 535.0,
+        "unitID" : 15653,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 31,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Knight Errant",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 75.0,
+          "optionID" : 15680,
+          "optionName" : "Thermal Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15656,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15657,
+          "optionName" : "$Knight Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15659,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15661,
+          "optionName" : "$Shoulder Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15666,
+          "optionName" : "$Questoris Carapace Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 310.0,
+        "unitID" : 15667,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 23,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Acastus Knight Asterius",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15668,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15672,
+          "optionName" : "Twin Conversion Beam Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15674,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15675,
+          "optionName" : "Volkite Culverin",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15676,
+          "optionName" : "Karacnos Mortar Battery",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 850.0,
+        "unitID" : 15678,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 43,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Knight Crusader",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 75.0,
+          "optionID" : 15680,
+          "optionName" : "Thermal Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15681,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15751,
+          "optionName" : "Rapid-Fire Battle Cannon w/ Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15684,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15686,
+          "optionName" : "$Shoulder Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15691,
+          "optionName" : "Avenger Gatling Cannon w/ Heavy Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15692,
+          "optionName" : "$Questoris Carapace Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 395.0,
+        "unitID" : 15693,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 26,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Questoris Knight Styrix",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 15858,
+          "optionName" : "Reaper Chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15696,
+          "optionName" : "Volkite Chieorovile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15697,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15699,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15701,
+          "optionName" : "Graviton Crusher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15798,
+          "optionName" : "Hekaton Siege Claw w/ Twin Rad-Cleanser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 475.0,
+        "unitID" : 15707,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 23,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Armiger Warglaive",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15708,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15710,
+          "optionName" : "Reaper Chain-Cleaver",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15713,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 15714,
+          "optionName" : "Meltagun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15715,
+          "optionName" : "Thermal Spear",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
           "optionName" : "Freeblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2390,8 +1530,8 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 12721,
-          "optionName" : "Volkite Veuglaire",
+          "optionID" : 15837,
+          "optionName" : "Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2400,19 +1540,909 @@
           }
         } ],
         "unitCategory" : "",
-        "unitCost" : 155.0,
-        "unitID" : 12722,
+        "unitCost" : 150.0,
+        "unitID" : 15718,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 9,
           "Command points" : 0
         }
+      }, {
+        "unitName" : "Knight Castellan",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15720,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15721,
+          "optionName" : "Twin Meltagun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15722,
+          "optionName" : "Two Siegebreaker Cannons and Two Shieldbreaker Missiles",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15723,
+          "optionName" : "Plasma Decimator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15725,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15731,
+          "optionName" : "One Siegebreaker Cannon and Four Shieldbreaker Missiles",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15732,
+          "optionName" : "Volcano Lance",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 545.0,
+        "unitID" : 15733,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 32,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Knight Preceptor",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15735,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15736,
+          "optionName" : "$Knight Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15738,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15740,
+          "optionName" : "$Shoulder Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15745,
+          "optionName" : "Las-Impulsor",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15746,
+          "optionName" : "$Questoris Carapace Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 370.0,
+        "unitID" : 15747,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 22,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Knight Paladin",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15749,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15750,
+          "optionName" : "$Knight Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15751,
+          "optionName" : "Rapid-Fire Battle Cannon w/ Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15753,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15755,
+          "optionName" : "$Shoulder Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15760,
+          "optionName" : "$Questoris Carapace Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 310.0,
+        "unitID" : 15761,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 24,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Cerastus Knight-Lancer",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15762,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15767,
+          "optionName" : "Shock Blast",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15768,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15769,
+          "optionName" : "Cerastus Shock Lance",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 460.0,
+        "unitID" : 15771,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 23,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Knight Gallant",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 15858,
+          "optionName" : "Reaper Chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15774,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "optionID" : 15859,
+          "optionName" : "Thunderstrike gauntlet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15777,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15779,
+          "optionName" : "$Shoulder Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15784,
+          "optionName" : "$Questoris Carapace Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 330.0,
+        "unitID" : 15785,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 22,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Questoris Knight Magaera",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15786,
+          "optionName" : "Character (Heirloom of the House)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 15858,
+          "optionName" : "Reaper Chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15788,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15789,
+          "optionName" : "Lightning Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15791,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15795,
+          "optionName" : "Character (Exalted Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15797,
+          "optionName" : "Phased Plasma-Fusil",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15798,
+          "optionName" : "Hekaton Siege Claw w/ Twin Rad-Cleanser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 490.0,
+        "unitID" : 15799,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 24,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Cerastus Knight-Acheron",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15800,
+          "optionName" : "Reaper Chainfist",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15801,
+          "optionName" : "$Heirlooms of the Noble Houses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15802,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15803,
+          "optionName" : "Acheron Flame Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15804,
+          "optionName" : "Character (Knight Lance)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15805,
+          "optionName" : "Qualities and Burdens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15806,
+          "optionName" : "Titanic Feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15807,
+          "optionName" : "Twin Heavy Bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15808,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15809,
+          "optionName" : "Freeblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 520.0,
+        "unitID" : 15810,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 26,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Armiger Moiraxes",
+        "listOfOptions" : [ {
+          "optionCost" : 155.0,
+          "optionID" : 15811,
+          "optionName" : "Armiger Moirax",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 9,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 0.0,
+        "unitID" : 15812,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 12723,
+          "optionID" : 15813,
           "optionName" : "Heirloom: Skyshield",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2422,7 +2452,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12724,
+          "optionID" : 15814,
           "optionName" : "Heirloom (Cadmus): The Hunter's Eye",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2432,7 +2462,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12725,
+          "optionID" : 15815,
           "optionName" : "Heirloom: Judgement",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2442,7 +2472,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12726,
+          "optionID" : 15816,
           "optionName" : "Heirloom (Krast): The Headsman's Mark",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2452,7 +2482,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12727,
+          "optionID" : 15817,
           "optionName" : "Heirloom: Helm of the Nameless Warrior",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2462,7 +2492,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12728,
+          "optionID" : 15818,
           "optionName" : "Heirloom: Sanctuary",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2472,7 +2502,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12729,
+          "optionID" : 15819,
           "optionName" : "Heirloom: The Helm Dominatus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2482,7 +2512,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12730,
+          "optionID" : 15820,
           "optionName" : "Heirloom: Endless Fury",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2492,7 +2522,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12731,
+          "optionID" : 15821,
           "optionName" : "Heirloom (Raven): The Banner Inviolate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2502,7 +2532,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12732,
+          "optionID" : 15822,
           "optionName" : "Heirloom: Cawl's Wrath",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2512,7 +2542,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12733,
+          "optionID" : 15823,
           "optionName" : "Heirloom (Taranis): Fury of Mars",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2522,7 +2552,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12734,
+          "optionID" : 15824,
           "optionName" : "Heirloom (Vulker): The Auric Mask",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2532,7 +2562,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12735,
+          "optionID" : 15825,
           "optionName" : "Heirloom: Traitor's Pyre",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2542,7 +2572,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12736,
+          "optionID" : 15826,
           "optionName" : "Heirloom (Hawkshroud): Angel's Grace",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2552,7 +2582,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12737,
+          "optionID" : 15827,
           "optionName" : "Heirloom: The Paragon Gauntlet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2562,7 +2592,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12738,
+          "optionID" : 15828,
           "optionName" : "Heirloom: Banner of Macharius Triumphant",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2572,7 +2602,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12739,
+          "optionID" : 15829,
           "optionName" : "Heirloom (Griffith): Mark of the Lance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2582,7 +2612,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12740,
+          "optionID" : 15830,
           "optionName" : "Heirloom (Mortan): Hondur's Bite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2592,7 +2622,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12741,
+          "optionID" : 15831,
           "optionName" : "Heirloom: Ravager",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2602,7 +2632,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12742,
+          "optionID" : 15832,
           "optionName" : "Heirloom: Armour of the Sainted Ion",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2612,7 +2642,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12743,
+          "optionID" : 15833,
           "optionName" : "Heirloom: Mark of the Omnissiah",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2622,7 +2652,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12744,
+          "optionID" : 15834,
           "optionName" : "Heirloom (Terryn): Thunder of Voltoris",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2635,7 +2665,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 12745,
+          "optionID" : 15835,
           "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2645,7 +2675,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 12746,
+          "optionID" : 15836,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2655,7 +2685,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 12747,
+          "optionID" : 15837,
           "optionName" : "Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2668,7 +2698,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 12748,
+          "optionID" : 15838,
           "optionName" : "Warlord Trait (Raven): Master of the Trial",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2678,7 +2708,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12749,
+          "optionID" : 15839,
           "optionName" : "Warlord Trait: Fearsome Reputation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2688,7 +2718,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12750,
+          "optionID" : 15840,
           "optionName" : "Warlord Trait: Cunning Commander",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2698,7 +2728,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12751,
+          "optionID" : 15841,
           "optionName" : "Warlord Trait (Mechanicus): Cold Eradication",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2708,7 +2738,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12752,
+          "optionID" : 15842,
           "optionName" : "Warlord Trait: Ion Bulwark",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2718,7 +2748,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12753,
+          "optionID" : 15843,
           "optionName" : "Warlord Trait: Blessed by the Sacristans",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2728,7 +2758,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12754,
+          "optionID" : 15844,
           "optionName" : "Warlord Trait (Griffith): Master of the Joust",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2738,7 +2768,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12755,
+          "optionID" : 15845,
           "optionName" : "Warlord Trait (Krast): First Knight",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2748,7 +2778,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12756,
+          "optionID" : 15846,
           "optionName" : "Warlord Trait (Mortan): Legacy of the Black Pall",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2758,7 +2788,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12757,
+          "optionID" : 15847,
           "optionName" : "Warlord Trait (Vulker): Adamantium Knight",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2768,7 +2798,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12758,
+          "optionID" : 15848,
           "optionName" : "Warlord Trait (Imperialis): Strike and Shield",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2778,7 +2808,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12759,
+          "optionID" : 15849,
           "optionName" : "Warlord Trait (Imperialis): Revered Knight",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2788,7 +2818,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12760,
+          "optionID" : 15850,
           "optionName" : "Warlord Trait (Imperialis): Tireless Duty",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2798,7 +2828,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12761,
+          "optionID" : 15851,
           "optionName" : "Warlord Trait: Landstrider",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2808,7 +2838,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12762,
+          "optionID" : 15852,
           "optionName" : "Warlord Trait (Hawkshroud): Duty of the Forsworn",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2818,7 +2848,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12763,
+          "optionID" : 15853,
           "optionName" : "Warlord Trait (Terryn): Champion of the Household",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2828,7 +2858,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12764,
+          "optionID" : 15854,
           "optionName" : "Warlord Trait (Taranis): Knight of Mars",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2838,7 +2868,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12765,
+          "optionID" : 15855,
           "optionName" : "Warlord Trait: Knight Seneschal",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2848,7 +2878,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12766,
+          "optionID" : 15856,
           "optionName" : "Warlord Trait (Mechanicus): Calculated Targeting",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2858,7 +2888,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 12767,
+          "optionID" : 15857,
           "optionName" : "Warlord Trait (Mechanicus): Paragon of the Omnissiah",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2871,7 +2901,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 30.0,
-          "optionID" : 12768,
+          "optionID" : 15858,
           "optionName" : "Reaper Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2881,7 +2911,7 @@
           }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 12769,
+          "optionID" : 15859,
           "optionName" : "Thunderstrike gauntlet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2894,7 +2924,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 30.0,
-          "optionID" : 12770,
+          "optionID" : 15860,
           "optionName" : "Twin Icarus Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2904,7 +2934,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 12771,
+          "optionID" : 15861,
           "optionName" : "Ironstorm Missile Pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2914,7 +2944,7 @@
           }
         }, {
           "optionCost" : 45.0,
-          "optionID" : 12772,
+          "optionID" : 15862,
           "optionName" : "Stormspear Rocket Pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

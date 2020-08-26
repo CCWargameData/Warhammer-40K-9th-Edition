@@ -3,148 +3,10 @@
     "gameName" : "Warhammer 40k 8th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "Vindicare Assassin",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 13243,
-          "optionName" : "Blind Grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13244,
-          "optionName" : "Exitus Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13245,
-          "optionName" : "Exitus Rifle",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 100.0,
-        "unitID" : 13246,
-        "autoAddDictionary" : {
-          "13243" : 1,
-          "13244" : 1,
-          "13245" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Eversor Assassin",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 13247,
-          "optionName" : "Neuro-gauntlet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13248,
-          "optionName" : "Melta bombs",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13249,
-          "optionName" : "Executioner Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13250,
-          "optionName" : "Power Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 100.0,
-        "unitID" : 13251,
-        "autoAddDictionary" : {
-          "13250" : 1,
-          "13247" : 1,
-          "13248" : 1,
-          "13249" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Culexus Assassin",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 13252,
-          "optionName" : "Animus Speculum",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 13253,
-          "optionName" : "Psyk-out Grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 100.0,
-        "unitID" : 13254,
-        "autoAddDictionary" : {
-          "13253" : 1,
-          "13252" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "Callidus Assassin",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 13255,
+          "optionID" : 20618,
           "optionName" : "Phase Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -154,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13256,
+          "optionID" : 20619,
           "optionName" : "Poison Blades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -164,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 13257,
+          "optionID" : 20620,
           "optionName" : "Neural Shredder",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -175,12 +37,134 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 100.0,
-        "unitID" : 13258,
-        "autoAddDictionary" : {
-          "13257" : 1,
-          "13255" : 1,
-          "13256" : 1
-        },
+        "unitID" : 20621,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Culexus Assassin",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 20622,
+          "optionName" : "Animus Speculum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 20623,
+          "optionName" : "Psyk-out Grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 100.0,
+        "unitID" : 20624,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Eversor Assassin",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 20625,
+          "optionName" : "Neuro-gauntlet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 20626,
+          "optionName" : "Melta bombs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 20627,
+          "optionName" : "Executioner Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 20628,
+          "optionName" : "Power Sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 100.0,
+        "unitID" : 20629,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Vindicare Assassin",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 20630,
+          "optionName" : "Blind Grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 20631,
+          "optionName" : "Exitus Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 20632,
+          "optionName" : "Exitus Rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 100.0,
+        "unitID" : 20633,
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
