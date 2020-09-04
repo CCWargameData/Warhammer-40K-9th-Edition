@@ -1,4289 +1,11 @@
 {
   "games" : [ {
-    "gameName" : "Warhammer 40k 8th Edition",
+    "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
-      "listOfUnits" : [ {
-        "unitName" : "Brotherhood Champion",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15601,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15602,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15603,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15922,
-          "optionName" : "Nemesis Force Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15934,
-          "optionName" : "Iron Halo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 90.0,
-        "unitID" : 15608,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Apothecary",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15610,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15611,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15612,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15614,
-          "optionName" : "$Apothecary Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 80.0,
-        "unitID" : 15616,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Doomglaive Dreadnought",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15618,
-          "optionName" : "Nemesis doomglaive",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15619,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 15620,
-          "optionName" : "Incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 24.0,
-          "optionID" : 15621,
-          "optionName" : "Heavy Psycannon (Doomglaive)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 116.0,
-        "unitID" : 15622,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Purgator Justicar",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15624,
-          "optionName" : "$Grey Knight Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 17.0,
-        "unitID" : 15625,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Grey Knight Terminator Justicar",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15627,
-          "optionName" : "$Grey Knight Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 35.0,
-        "unitID" : 15628,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Land Raider Redeemer",
-        "listOfOptions" : [ {
-          "optionCost" : 40.0,
-          "optionID" : 15629,
-          "optionName" : "Twin Assault Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15630,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15631,
-          "optionName" : "Flamestorm Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 15632,
-          "optionName" : "Hunter-killer Missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 15633,
-          "optionName" : "Multi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 245.0,
-        "unitID" : 15634,
-        "autoAddDictionary" : {
-          "15629" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 15,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Land Raider",
-        "listOfOptions" : [ {
-          "optionCost" : 25.0,
-          "optionID" : 15635,
-          "optionName" : "Multi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 15636,
-          "optionName" : "Twin Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15637,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 15638,
-          "optionName" : "Twin Heavy Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 15639,
-          "optionName" : "Hunter-killer Missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 175.0,
-        "unitID" : 15640,
-        "autoAddDictionary" : {
-          "15638" : 1,
-          "15636" : 2
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 15,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Thunderhawk Assault Gunship",
-        "listOfOptions" : [ {
-          "optionCost" : 20.0,
-          "optionID" : 15641,
-          "optionName" : "Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 50.0,
-          "optionID" : 15797,
-          "optionName" : "Twin psycannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15643,
-          "optionName" : "Twin Heavy Bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15644,
-          "optionName" : "Twin Psycannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15645,
-          "optionName" : "Turbo-laser destructor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15646,
-          "optionName" : "Thunderhawk Cluster Bomb",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15647,
-          "optionName" : "Thunderhawk heavy cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 60.0,
-          "optionID" : 15648,
-          "optionName" : "Hellstrike battery",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 15779,
-          "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 1350.0,
-        "unitID" : 15650,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 80,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Nemesis Dreadknight",
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 15666,
-          "optionName" : "Nemesis Daemon Greathammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15667,
-          "optionName" : "Dreadfist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15668,
-          "optionName" : "Gatling Psilencer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 15669,
-          "optionName" : "Nemesis Greatsword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15655,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15670,
-          "optionName" : "Heavy Incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 15673,
-          "optionName" : "Dreadknight teleporter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 15676,
-          "optionName" : "Heavy Psycannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 130.0,
-        "unitID" : 15659,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Land Raider Crusader",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 15660,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 15661,
-          "optionName" : "Hunter-killer Missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 15662,
-          "optionName" : "Hurricane Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 15663,
-          "optionName" : "Multi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 15664,
-          "optionName" : "Twin Assault Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 215.0,
-        "unitID" : 15665,
-        "autoAddDictionary" : {
-          "15662" : 2,
-          "15664" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 15,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Grand Master in Nemesis Dreadknight",
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 15666,
-          "optionName" : "Nemesis Daemon Greathammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15667,
-          "optionName" : "Dreadfist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15668,
-          "optionName" : "Gatling Psilencer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 15669,
-          "optionName" : "Nemesis Greatsword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15670,
-          "optionName" : "Heavy Incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15671,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15672,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 15673,
-          "optionName" : "Dreadknight teleporter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15674,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 15676,
-          "optionName" : "Heavy Psycannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 180.0,
-        "unitID" : 15677,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 11,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Vortimer Pattern Razorback",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 50.0,
-          "optionID" : 15797,
-          "optionName" : "Twin psycannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 22766,
-          "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Dedicated Transport",
-        "unitCost" : 70.0,
-        "unitID" : 15681,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Purgation Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15683,
-          "optionName" : "Purgator Justicar",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 15913,
-          "optionName" : "Nemesis Daemon Hammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15685,
-          "optionName" : "Purgator (Halberd)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15915,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 15917,
-          "optionName" : "Nemesis Falchion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15688,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15689,
-          "optionName" : "Purgator (Warding Stave)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15690,
-          "optionName" : "Purgator (Falchion)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15691,
-          "optionName" : "Purgator (Sword)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15922,
-          "optionName" : "Nemesis Force Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15923,
-          "optionName" : "Nemesis Warding Stave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15925,
-          "optionName" : "Nemesis Force Halberd",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15696,
-          "optionName" : "Purgator (Daemon Hammer)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 0.0,
-        "unitID" : 15697,
-        "autoAddDictionary" : {
-          "15691" : 4
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Techmarine",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15698,
-          "optionName" : "$Techmarine Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 19231,
-          "optionName" : "Flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15701,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 15702,
-          "optionName" : "Combi-grav",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15703,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15704,
-          "optionName" : "Combi-flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15705,
-          "optionName" : "Combi-plasma",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23205,
-          "optionName" : "Boltgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15708,
-          "optionName" : "Servo-arm",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22747,
-          "optionName" : "Bolt pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15711,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15713,
-          "optionName" : "Servo Arms",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15714,
-          "optionName" : "Conversion Beamer (Legends)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 22928,
-          "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15716,
-          "optionName" : "Combi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 60.0,
-        "unitID" : 15717,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Terminator Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 35.0,
-          "optionID" : 15719,
-          "optionName" : "Terminator (Daemon Hammer)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 35.0,
-          "optionID" : 15720,
-          "optionName" : "Terminator (Falchions)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 35.0,
-          "optionID" : 15721,
-          "optionName" : "Grey Knight Terminator Justicar",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 15913,
-          "optionName" : "Nemesis Daemon Hammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15915,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 35.0,
-          "optionID" : 15724,
-          "optionName" : "Terminator (Halberd)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 15917,
-          "optionName" : "Nemesis Falchion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15726,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15922,
-          "optionName" : "Nemesis Force Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15923,
-          "optionName" : "Nemesis Warding Stave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15925,
-          "optionName" : "Nemesis Force Halberd",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 35.0,
-          "optionID" : 15731,
-          "optionName" : "Terminator (Sword)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 35.0,
-          "optionID" : 15732,
-          "optionName" : "Terminator (Warding Stave)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Troops",
-        "unitCost" : 0.0,
-        "unitID" : 15733,
-        "autoAddDictionary" : {
-          "15731" : 4
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 11,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Interceptor Justicar",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15736,
-          "optionName" : "$Grey Knight Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 20.0,
-        "unitID" : 15737,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Interceptor Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 20.0,
-          "optionID" : 15738,
-          "optionName" : "Interceptor (Falchions)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 15913,
-          "optionName" : "Nemesis Daemon Hammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15741,
-          "optionName" : "Interceptor (Sword)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15915,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15743,
-          "optionName" : "Interceptor (Halberd)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 15917,
-          "optionName" : "Nemesis Falchion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15745,
-          "optionName" : "Interceptor (Warding Stave)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15746,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15747,
-          "optionName" : "Interceptor Justicar",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 15748,
-          "optionName" : "Interceptor (Daemon Hammer)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15922,
-          "optionName" : "Nemesis Force Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15923,
-          "optionName" : "Nemesis Warding Stave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15925,
-          "optionName" : "Nemesis Force Halberd",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Fast Attack",
-        "unitCost" : 0.0,
-        "unitID" : 15753,
-        "autoAddDictionary" : {
-          "15741" : 4
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Purifier Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15755,
-          "optionName" : "Purifier (Daemon Hammer)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 15913,
-          "optionName" : "Nemesis Daemon Hammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15757,
-          "optionName" : "Purifier (Halberd)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15915,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15759,
-          "optionName" : "Purifier (Falchion)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15760,
-          "optionName" : "Purifier (Warding Stave)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 15917,
-          "optionName" : "Nemesis Falchion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15762,
-          "optionName" : "Knight of the Flame",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15763,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15764,
-          "optionName" : "Purifier (Sword)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15922,
-          "optionName" : "Nemesis Force Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15923,
-          "optionName" : "Nemesis Warding Stave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15925,
-          "optionName" : "Nemesis Force Halberd",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 0.0,
-        "unitID" : 15769,
-        "autoAddDictionary" : {
-          "15764" : 4
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Razorback",
-        "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 15770,
-          "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 15771,
-          "optionName" : "Twin assault cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15772,
-          "optionName" : "Twin Assault Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 45.0,
-          "optionID" : 15773,
-          "optionName" : "Lascannon and Twin Plasma Gun (Index)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 34.0,
-          "optionID" : 15774,
-          "optionName" : "Twin Heavy Flamer (Index)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15775,
-          "optionName" : "Twin Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 15776,
-          "optionName" : "Twin lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15777,
-          "optionName" : "Twin Heavy Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15778,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 15779,
-          "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Dedicated Transport",
-        "unitCost" : 80.0,
-        "unitID" : 15780,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Lord Kaldor Draigo",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15783,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15784,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15786,
-          "optionName" : "The Titansword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 190.0,
-        "unitID" : 15788,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 10,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Dreadnought",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15789,
-          "optionName" : "$Dreadnought Arm 2",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15790,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15791,
-          "optionName" : "$Dreadnought Arm 1",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 80.0,
-        "unitID" : 15792,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Rhino",
-        "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 15793,
-          "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15794,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Dedicated Transport",
-        "unitCost" : 75.0,
-        "unitID" : 15795,
-        "autoAddDictionary" : {
-          "15794" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Grey Knight Terminator",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 35.0,
-        "unitID" : 15796,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Vortimer Pattern Land Raider Redeemer",
-        "listOfOptions" : [ {
-          "optionCost" : 50.0,
-          "optionID" : 15797,
-          "optionName" : "Twin psycannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 22766,
-          "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15800,
-          "optionName" : "Flamestorm Cannon (Forgeworld)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 22768,
-          "optionName" : "Multi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 245.0,
-        "unitID" : 15802,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 19,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Librarian",
-        "listOfOptions" : [ {
-          "optionCost" : 10.0,
-          "optionID" : 15803,
-          "optionName" : "Combi-plasma",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 15804,
-          "optionName" : "Combi-flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 15805,
-          "optionName" : "Combi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15807,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15808,
-          "optionName" : "$Grey Knight Librarian Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15809,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15810,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 15811,
-          "optionName" : "Stormshield (Index)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15812,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15813,
-          "optionName" : "Crux Terminatus",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 105.0,
-        "unitID" : 15815,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Brother-Captain Stern",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15817,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15818,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15922,
-          "optionName" : "Nemesis Force Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15934,
-          "optionName" : "Iron Halo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 110.0,
-        "unitID" : 15822,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Venerable Dreadnought",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15823,
-          "optionName" : "$Dreadnought Arm 2",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15824,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15825,
-          "optionName" : "$Dreadnought Arm 1",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 95.0,
-        "unitID" : 15826,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Castellan Crowe",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15828,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15829,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15831,
-          "optionName" : "The Black Blade of Antwyr",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15934,
-          "optionName" : "Iron Halo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 85.0,
-        "unitID" : 15834,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Brotherhood Ancient",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15845,
-          "optionName" : "Sacred Banner",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 15917,
-          "optionName" : "Nemesis Falchion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15838,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15839,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15840,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 100.0,
-        "unitID" : 15843,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Paladin Ancient",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15844,
-          "optionName" : "Storm Bolter and Falchion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15845,
-          "optionName" : "Sacred Banner",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 15846,
-          "optionName" : "Psycannon (Terminator)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15848,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 15849,
-          "optionName" : "Psilencer (Terminator)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15850,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15915,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 15917,
-          "optionName" : "Nemesis Falchion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15854,
-          "optionName" : "Psilencer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15855,
-          "optionName" : "Incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 15856,
-          "optionName" : "Incinerator (Terminator)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15857,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15858,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15859,
-          "optionName" : "Psycannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 100.0,
-        "unitID" : 15860,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Paladin Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 47.0,
-          "optionID" : 15861,
-          "optionName" : "Paladin (Halberd)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 47.0,
-          "optionID" : 15863,
-          "optionName" : "Paladin (Falchions)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 15913,
-          "optionName" : "Nemesis Daemon Hammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 47.0,
-          "optionID" : 15865,
-          "optionName" : "Paladin (Sword)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15915,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15867,
-          "optionName" : "$Grey Knight Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 47.0,
-          "optionID" : 15868,
-          "optionName" : "Paladin (Warding Stave)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 15917,
-          "optionName" : "Nemesis Falchion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15870,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 47.0,
-          "optionID" : 15871,
-          "optionName" : "Paragon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 47.0,
-          "optionID" : 15872,
-          "optionName" : "Paladin (Daemon Hammer)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15922,
-          "optionName" : "Nemesis Force Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15923,
-          "optionName" : "Nemesis Warding Stave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15925,
-          "optionName" : "Nemesis Force Halberd",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 0.0,
-        "unitID" : 15876,
-        "autoAddDictionary" : {
-          "15871" : 1,
-          "15865" : 2
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Grey Knight Justicar",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15877,
-          "optionName" : "$Grey Knight Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 17.0,
-        "unitID" : 15878,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Knight of the Flame",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 15915,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15880,
-          "optionName" : "$Grey Knight Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 17.0,
-        "unitID" : 15881,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Grey Knight",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 19.0,
-        "unitID" : 15882,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Grand Master",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15884,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15885,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15886,
-          "optionName" : "$Brother Captain Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15887,
-          "optionName" : "$Grey Knights Ranged Weapons (Terminators)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15888,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15934,
-          "optionName" : "Iron Halo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 135.0,
-        "unitID" : 15891,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Grand Master Voldus",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15893,
-          "optionName" : "Malleus Argyrum",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15895,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15896,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15934,
-          "optionName" : "Iron Halo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 160.0,
-        "unitID" : 15900,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Chaplain",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15903,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15904,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15905,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15908,
-          "optionName" : "$Litanies of Purity",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15909,
-          "optionName" : "Crozius Arcanum",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 110.0,
-        "unitID" : 15910,
-        "autoAddDictionary" : {
-          "15909" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Strike Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15912,
-          "optionName" : "Grey Knight (Daemon Hammer)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 15913,
-          "optionName" : "Nemesis Daemon Hammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15914,
-          "optionName" : "Grey Knight (Falchions)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 15915,
-          "optionName" : "Storm Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15916,
-          "optionName" : "Grey Knight Justicar",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 15917,
-          "optionName" : "Nemesis Falchion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15918,
-          "optionName" : "$Sanctic Powers (1)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15919,
-          "optionName" : "Grey Knight (Halberd)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15920,
-          "optionName" : "Grey Knight (Sword)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15922,
-          "optionName" : "Nemesis Force Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15923,
-          "optionName" : "Nemesis Warding Stave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 15924,
-          "optionName" : "Grey Knight (Warding Stave)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15925,
-          "optionName" : "Nemesis Force Halberd",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Troops",
-        "unitCost" : 0.0,
-        "unitID" : 15926,
-        "autoAddDictionary" : {
-          "15920" : 4
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Brother-Captain",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15927,
-          "optionName" : "Psyk-out Grenade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15928,
-          "optionName" : "$Grey Knight Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15929,
-          "optionName" : "$Grey Knight Psychic Powers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15930,
-          "optionName" : "$Brother Captain Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15931,
-          "optionName" : "$Grey Knights Ranged Weapons (Terminators)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15932,
-          "optionName" : "$Grey Knight Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15933,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15934,
-          "optionName" : "Iron Halo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 115.0,
-        "unitID" : 15935,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Jokaero Weaponsmith",
-        "listOfOptions" : [ {
-          "optionCost" : 4.0,
-          "optionID" : 22690,
-          "optionName" : "Jokaero Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22691,
-          "optionName" : "$Ordo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 20.0,
-        "unitID" : 22692,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 1,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Inquisitor Greyfax",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22770,
-          "optionName" : "Stratagem: Inquisitorial Mandate",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22694,
-          "optionName" : "Hereticus - No Escape",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22773,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22735,
-          "optionName" : "Psyk-out grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22698,
-          "optionName" : "Master-Crafted Power Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22699,
-          "optionName" : "Master-Crafted Condemnor Boltgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22700,
-          "optionName" : "$Telethesia Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Other",
-        "unitCost" : 90.0,
-        "unitID" : 22701,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Inquisitor Eisenhorn",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22770,
-          "optionName" : "Stratagem: Inquisitorial Mandate",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22703,
-          "optionName" : "Runestaff",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22704,
-          "optionName" : "Electrobane Grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22773,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22706,
-          "optionName" : "Artificer Bolt Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 22707,
-          "optionName" : "Malus Codicium Daemonhost",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22708,
-          "optionName" : "Barbarisater",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22709,
-          "optionName" : "$Telethesia Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Other",
-        "unitCost" : 85.0,
-        "unitID" : 22710,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Inquisitor",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22711,
-          "optionName" : "$Inquisitor Ranged Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22712,
-          "optionName" : "$Inquisitor Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22713,
-          "optionName" : "$Relics of the Inquisition",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23211,
-          "optionName" : "Chainsword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22715,
-          "optionName" : "$Inquisitor Pistol Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22734,
-          "optionName" : "Alpha-Class Psyker",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22717,
-          "optionName" : "$Telethesia Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22770,
-          "optionName" : "Stratagem: Inquisitorial Mandate",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22719,
-          "optionName" : "Psyker",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22720,
-          "optionName" : "$Ordo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22773,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Other",
-        "unitCost" : 60.0,
-        "unitID" : 22723,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Acolytes",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22724,
-          "optionName" : "$Ordo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 9.0,
-          "optionID" : 22725,
-          "optionName" : "Acolyte",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 1,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22726,
-          "optionName" : "$Acolyte Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 0.0,
-        "unitID" : 22727,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Daemonhost",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22728,
-          "optionName" : "Unholy Gaze",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22729,
-          "optionName" : "Warp Grasp",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 25.0,
-        "unitID" : 22730,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 1,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Ordo Malleus Inquisitor in Terminator Armour",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22731,
-          "optionName" : "$Relics of the Inquisition",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23013,
-          "optionName" : "Combi-plasma",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 8.0,
-          "optionID" : 22733,
-          "optionName" : "Combi-flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22734,
-          "optionName" : "Alpha-Class Psyker",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22735,
-          "optionName" : "Psyk-out grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22736,
-          "optionName" : "$Telethesia Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22770,
-          "optionName" : "Stratagem: Inquisitorial Mandate",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22739,
-          "optionName" : "Psycannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23021,
-          "optionName" : "Nemesis Daemon Hammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22773,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 22742,
-          "optionName" : "Combi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Other",
-        "unitCost" : 95.0,
-        "unitID" : 22743,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Inquisitor Coteaz",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22770,
-          "optionName" : "Stratagem: Inquisitorial Mandate",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22745,
-          "optionName" : "Psyber-eagle",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22746,
-          "optionName" : "Master-crafted Nemesis Daemon hammer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22747,
-          "optionName" : "Bolt pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22773,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22749,
-          "optionName" : "$Telethesia Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Other",
-        "unitCost" : 95.0,
-        "unitID" : 22750,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Lord Inquisitor Kyria Draxus",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22770,
-          "optionName" : "Stratagem: Inquisitorial Mandate",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22752,
-          "optionName" : "Dirgesinger",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22773,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 22754,
-          "optionName" : "Power fist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22755,
-          "optionName" : "$Telethesia Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22756,
-          "optionName" : "Smite",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Other",
-        "unitCost" : 85.0,
-        "unitID" : 22757,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Inquisitor-Lord Solomon Lok",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22758,
-          "optionName" : "Blade of Surety",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22770,
-          "optionName" : "Stratagem: Inquisitorial Mandate",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22760,
-          "optionName" : "Psibolt Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22773,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22762,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 75.0,
-        "unitID" : 22763,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Inquisition Land Raider Prometheus",
-        "listOfOptions" : [ {
-          "optionCost" : 3.0,
-          "optionID" : 22764,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 60.0,
-          "optionID" : 22765,
-          "optionName" : "Quad Heavy Bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 22766,
-          "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22767,
-          "optionName" : "$Ordo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 22768,
-          "optionName" : "Multi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 180.0,
-        "unitID" : 22769,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 16,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Inquisitor Karamazov",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22770,
-          "optionName" : "Stratagem: Inquisitorial Mandate",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22771,
-          "optionName" : "Throne of Judgement",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22772,
-          "optionName" : "Master-Crafted Power Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22773,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22774,
-          "optionName" : "Master-Crafted Multi-Melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Other",
-        "unitCost" : 125.0,
-        "unitID" : 22775,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Callidus Assassin",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22776,
-          "optionName" : "Phase Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22777,
-          "optionName" : "Poison Blades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22778,
-          "optionName" : "Neural Shredder",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 100.0,
-        "unitID" : 22779,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Culexus Assassin",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22780,
-          "optionName" : "Animus Speculum",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22781,
-          "optionName" : "Psyk-out Grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 100.0,
-        "unitID" : 22782,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Eversor Assassin",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22783,
-          "optionName" : "Neuro-gauntlet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22784,
-          "optionName" : "Melta bombs",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22785,
-          "optionName" : "Executioner Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22786,
-          "optionName" : "Power Sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 100.0,
-        "unitID" : 22787,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Vindicare Assassin",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 22788,
-          "optionName" : "Blind Grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22789,
-          "optionName" : "Exitus Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 22790,
-          "optionName" : "Exitus Rifle",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 100.0,
-        "unitID" : 22791,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 3.0,
-          "optionID" : 23009,
+          "optionID" : 25220,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4293,7 +15,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 23010,
+          "optionID" : 25221,
           "optionName" : "Incinerator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4303,7 +25,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 23011,
+          "optionID" : 25222,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4313,7 +35,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 23012,
+          "optionID" : 25223,
           "optionName" : "Condemnor Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4323,7 +45,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23013,
+          "optionID" : 25224,
           "optionName" : "Combi-plasma",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4333,7 +55,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 23203,
+          "optionID" : 25414,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4343,7 +65,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 23202,
+          "optionID" : 25413,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4353,7 +75,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 23204,
+          "optionID" : 25415,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4363,7 +85,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23205,
+          "optionID" : 25416,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4373,7 +95,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 23018,
+          "optionID" : 25229,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4383,7 +105,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23207,
+          "optionID" : 25418,
           "optionName" : "Hot-Shot Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4396,7 +118,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 23199,
+          "optionID" : 25410,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4406,7 +128,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23021,
+          "optionID" : 25232,
           "optionName" : "Nemesis Daemon Hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4416,7 +138,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 23200,
+          "optionID" : 25411,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4426,7 +148,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 23201,
+          "optionID" : 25412,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4436,7 +158,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 23206,
+          "optionID" : 25417,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4446,7 +168,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 23025,
+          "optionID" : 25236,
           "optionName" : "Null Rod [Legends]",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4459,7 +181,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23065,
+          "optionID" : 25276,
           "optionName" : "Ignis Judicium",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4469,7 +191,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23066,
+          "optionID" : 25277,
           "optionName" : "Bio-corrosive Poisons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4479,7 +201,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23067,
+          "optionID" : 25278,
           "optionName" : "Tainted Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4489,7 +211,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23068,
+          "optionID" : 25279,
           "optionName" : "Digital Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4499,7 +221,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23069,
+          "optionID" : 25280,
           "optionName" : "Blade of the Ordo",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4509,7 +231,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23070,
+          "optionID" : 25281,
           "optionName" : "Blackshroud",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4522,7 +244,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 22885,
+          "optionID" : 25096,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4532,7 +254,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 23173,
+          "optionID" : 25384,
           "optionName" : "Inferno pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4542,7 +264,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 22928,
+          "optionID" : 25139,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4552,7 +274,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 25073,
+          "optionID" : 27360,
           "optionName" : "Needle Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4565,7 +287,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 16065,
+          "optionID" : 17260,
           "optionName" : "Dreadnought combat weapon w/Storm Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4575,7 +297,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 16066,
+          "optionID" : 17261,
           "optionName" : "Missile launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4585,7 +307,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 16067,
+          "optionID" : 17262,
           "optionName" : "Dreadnought combat weapon w/Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4595,7 +317,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16068,
+          "optionID" : 17263,
           "optionName" : "Twin Autocannon (Legends)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4608,7 +330,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16069,
+          "optionID" : 17264,
           "optionName" : "Nemesis Falchions",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4618,7 +340,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16070,
+          "optionID" : 17265,
           "optionName" : "Nemesis Force Halberd",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4628,7 +350,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16071,
+          "optionID" : 17266,
           "optionName" : "Nemesis Force Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4638,7 +360,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16072,
+          "optionID" : 17267,
           "optionName" : "Nemesis Warding Stave",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4648,7 +370,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16073,
+          "optionID" : 17268,
           "optionName" : "Nemesis Daemon Hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4664,7 +386,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16074,
+          "optionID" : 17269,
           "optionName" : "Nemesis Force Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4674,7 +396,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16075,
+          "optionID" : 17270,
           "optionName" : "Nemesis Force Halberd",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4684,7 +406,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16076,
+          "optionID" : 17271,
           "optionName" : "Nemesis Warding Stave",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4694,7 +416,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16077,
+          "optionID" : 17272,
           "optionName" : "Nemesis Daemon Hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4704,7 +426,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16078,
+          "optionID" : 17273,
           "optionName" : "Nemesis Falchion",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4717,7 +439,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16079,
+          "optionID" : 17274,
           "optionName" : "Nemesis Warding Stave",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4727,7 +449,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16080,
+          "optionID" : 17275,
           "optionName" : "Nemesis Daemon Hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4737,7 +459,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16081,
+          "optionID" : 17276,
           "optionName" : "Nemesis Force Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4747,7 +469,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16082,
+          "optionID" : 17277,
           "optionName" : "Nemesis Falchions",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4757,7 +479,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16083,
+          "optionID" : 17278,
           "optionName" : "Nemesis Force Halberd",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4770,7 +492,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16084,
+          "optionID" : 17279,
           "optionName" : "Twin Autocannon (Legends)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4780,7 +502,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 16085,
+          "optionID" : 17280,
           "optionName" : "Heavy plasma cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4790,7 +512,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16086,
+          "optionID" : 17281,
           "optionName" : "Twin Heavy Flamer (Legends)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4800,7 +522,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 16087,
+          "optionID" : 17282,
           "optionName" : "Assault cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4810,7 +532,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16088,
+          "optionID" : 17283,
           "optionName" : "Twin Heavy Bolter (Legends)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4820,7 +542,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 16089,
+          "optionID" : 17284,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4830,7 +552,7 @@
           }
         }, {
           "optionCost" : 25.0,
-          "optionID" : 16090,
+          "optionID" : 17285,
           "optionName" : "Multi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4843,7 +565,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 3.0,
-          "optionID" : 16091,
+          "optionID" : 17286,
           "optionName" : "Storm Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4853,7 +575,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22739,
+          "optionID" : 24963,
           "optionName" : "Psycannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4863,7 +585,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16093,
+          "optionID" : 17288,
           "optionName" : "Psilencer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4873,7 +595,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16094,
+          "optionID" : 17289,
           "optionName" : "Incinerator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4886,7 +608,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16095,
+          "optionID" : 17290,
           "optionName" : "2. Words of Power",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4896,7 +618,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16096,
+          "optionID" : 17291,
           "optionName" : "3. Intonement for Guidance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4906,7 +628,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16097,
+          "optionID" : 17292,
           "optionName" : "1. Litany of Faith",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4916,7 +638,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16098,
+          "optionID" : 17293,
           "optionName" : "5. Recitation of Projection",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4926,7 +648,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16099,
+          "optionID" : 17294,
           "optionName" : "4. Refrain of Convergence",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4936,7 +658,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16100,
+          "optionID" : 17295,
           "optionName" : "6. Invocation of Focus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4949,7 +671,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 16101,
+          "optionID" : 17296,
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4959,7 +681,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 16102,
+          "optionID" : 17297,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4969,7 +691,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 23200,
+          "optionID" : 25411,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4979,7 +701,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23211,
+          "optionID" : 25422,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4989,7 +711,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 16105,
+          "optionID" : 17300,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4999,7 +721,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 25171,
+          "optionID" : 27435,
           "optionName" : "Power axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5009,7 +731,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 23206,
+          "optionID" : 25417,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5022,7 +744,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16108,
+          "optionID" : 17303,
           "optionName" : "2: Hammer of Righteousness",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5032,7 +754,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16109,
+          "optionID" : 17304,
           "optionName" : "6: Lore Master",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5042,7 +764,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16110,
+          "optionID" : 17305,
           "optionName" : "5: Nemesis Lord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5052,7 +774,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16111,
+          "optionID" : 17306,
           "optionName" : "1: Daemon Slayer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5062,7 +784,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16112,
+          "optionID" : 17307,
           "optionName" : "4: First to the Fray",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5072,7 +794,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16113,
+          "optionID" : 17308,
           "optionName" : "3: Unyielding Anvil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5085,7 +807,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16114,
+          "optionID" : 17309,
           "optionName" : "2 Additional Relics",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5095,7 +817,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16115,
+          "optionID" : 17310,
           "optionName" : "1 Additional Relic",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5108,7 +830,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16116,
+          "optionID" : 17311,
           "optionName" : "Inner Fire",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5118,7 +840,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16117,
+          "optionID" : 17312,
           "optionName" : "Gate of Infinity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5128,7 +850,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16118,
+          "optionID" : 17313,
           "optionName" : "Astral Aim",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5138,7 +860,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16119,
+          "optionID" : 17314,
           "optionName" : "Armoured Resilience",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5148,7 +870,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16120,
+          "optionID" : 17315,
           "optionName" : "Ethereal Manipulation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5158,7 +880,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16121,
+          "optionID" : 17316,
           "optionName" : "Purge Soul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5168,7 +890,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16122,
+          "optionID" : 17317,
           "optionName" : "Sanctuary",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5178,7 +900,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16123,
+          "optionID" : 17318,
           "optionName" : "Edict Imperator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5188,7 +910,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16124,
+          "optionID" : 17319,
           "optionName" : "Empyrean Domination",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5198,7 +920,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16125,
+          "optionID" : 17320,
           "optionName" : "Vortex of Doom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5208,7 +930,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16126,
+          "optionID" : 17321,
           "optionName" : "Warp Shaping",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5218,7 +940,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16127,
+          "optionID" : 17322,
           "optionName" : "Hammerhand",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5231,7 +953,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16128,
+          "optionID" : 17323,
           "optionName" : "Gate of Infinity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5241,7 +963,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16129,
+          "optionID" : 17324,
           "optionName" : "Astral Aim",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5251,7 +973,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16130,
+          "optionID" : 17325,
           "optionName" : "Purge Soul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5261,7 +983,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16131,
+          "optionID" : 17326,
           "optionName" : "Sanctuary",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5271,7 +993,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16132,
+          "optionID" : 17327,
           "optionName" : "Vortex of Doom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5281,7 +1003,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16133,
+          "optionID" : 17328,
           "optionName" : "Hammerhand",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5294,7 +1016,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16134,
+          "optionID" : 17329,
           "optionName" : "Inner Fire",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5304,7 +1026,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16135,
+          "optionID" : 17330,
           "optionName" : "Armoured Resilience",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5314,7 +1036,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16136,
+          "optionID" : 17331,
           "optionName" : "Ethereal Manipulation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5324,7 +1046,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16137,
+          "optionID" : 17332,
           "optionName" : "Edict Imperator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5334,7 +1056,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16138,
+          "optionID" : 17333,
           "optionName" : "Empyrean Domination",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5344,7 +1066,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16139,
+          "optionID" : 17334,
           "optionName" : "Warp Shaping",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5357,7 +1079,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16140,
+          "optionID" : 17335,
           "optionName" : "Nemesis Falchion",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5367,7 +1089,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16141,
+          "optionID" : 17336,
           "optionName" : "Nemesis Warding Stave",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5377,7 +1099,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16142,
+          "optionID" : 17337,
           "optionName" : "Nemesis Force Halberd",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5387,7 +1109,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16143,
+          "optionID" : 17338,
           "optionName" : "Nemesis Force Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5397,7 +1119,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23021,
+          "optionID" : 25232,
           "optionName" : "Nemesis Daemon Hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5413,7 +1135,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23180,
+          "optionID" : 25391,
           "optionName" : "5) Psychic Pursuit",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5423,7 +1145,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23181,
+          "optionID" : 25392,
           "optionName" : "Hereticus - Ascertainment",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5433,7 +1155,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23182,
+          "optionID" : 25393,
           "optionName" : "2) Psychic Fortitude",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5443,7 +1165,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23183,
+          "optionID" : 25394,
           "optionName" : "4) Mental Interrogation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5453,7 +1175,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23184,
+          "optionID" : 25395,
           "optionName" : "1) Terrify",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5463,7 +1185,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23185,
+          "optionID" : 25396,
           "optionName" : "Malleus - Power Through Knowledge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5473,7 +1195,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23186,
+          "optionID" : 25397,
           "optionName" : "3) Dominate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5483,7 +1205,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23187,
+          "optionID" : 25398,
           "optionName" : "6) Castigation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5493,7 +1215,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23188,
+          "optionID" : 25399,
           "optionName" : "Xenos - Psychic Veil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5506,7 +1228,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16154,
+          "optionID" : 17349,
           "optionName" : "2: Hammer of Righteousness",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5516,7 +1238,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16155,
+          "optionID" : 17350,
           "optionName" : "6: Lore Master",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5526,7 +1248,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16156,
+          "optionID" : 17351,
           "optionName" : "5: Nemesis Lord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5536,7 +1258,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16157,
+          "optionID" : 17352,
           "optionName" : "1: Daemon Slayer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5546,7 +1268,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16158,
+          "optionID" : 17353,
           "optionName" : "4: First to the Fray",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5556,7 +1278,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16159,
+          "optionID" : 17354,
           "optionName" : "3: Unyielding Anvil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5569,7 +1291,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16160,
+          "optionID" : 17355,
           "optionName" : "Astral Aim",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5579,7 +1301,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16161,
+          "optionID" : 17356,
           "optionName" : "Hammerhand",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5589,7 +1311,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16162,
+          "optionID" : 17357,
           "optionName" : "Purge Soul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5599,7 +1321,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16163,
+          "optionID" : 17358,
           "optionName" : "Vortex of Doom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5609,7 +1331,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16164,
+          "optionID" : 17359,
           "optionName" : "Gate of Infinity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5619,7 +1341,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16165,
+          "optionID" : 17360,
           "optionName" : "Sanctuary",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5632,7 +1354,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23192,
+          "optionID" : 25403,
           "optionName" : "Ordo Hereticus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5642,7 +1364,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23193,
+          "optionID" : 25404,
           "optionName" : "Ordo Minoris",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5652,7 +1374,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23194,
+          "optionID" : 25405,
           "optionName" : "Ordo Malleus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5662,7 +1384,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23195,
+          "optionID" : 25406,
           "optionName" : "Ordo Xenos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5675,7 +1397,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16170,
+          "optionID" : 17365,
           "optionName" : "Banner of Refining Flame",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5685,7 +1407,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16171,
+          "optionID" : 17366,
           "optionName" : "Domina Liber Demonica",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5695,7 +1417,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16172,
+          "optionID" : 17367,
           "optionName" : "Destroyer of Crys'yllix",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5705,7 +1427,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16173,
+          "optionID" : 17368,
           "optionName" : "Soul Glaive",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5715,7 +1437,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16174,
+          "optionID" : 17369,
           "optionName" : "Stave of Supremacy",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5725,7 +1447,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16175,
+          "optionID" : 17370,
           "optionName" : "Aetheric Conduit",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5735,7 +1457,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16176,
+          "optionID" : 17371,
           "optionName" : "Fury of Deimos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5745,7 +1467,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16177,
+          "optionID" : 17372,
           "optionName" : "Cuirass of Sacrifice",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5755,7 +1477,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16178,
+          "optionID" : 17373,
           "optionName" : "Sanctic Shard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5765,7 +1487,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16179,
+          "optionID" : 17374,
           "optionName" : "Augurium Scrolls",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5775,7 +1497,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16180,
+          "optionID" : 17375,
           "optionName" : "Artisan Nullifier Matrix",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5785,7 +1507,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16181,
+          "optionID" : 17376,
           "optionName" : "Blade of the Forsworn",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5798,7 +1520,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16182,
+          "optionID" : 17377,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5808,7 +1530,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16183,
+          "optionID" : 17378,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5818,7 +1540,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23013,
+          "optionID" : 25224,
           "optionName" : "Combi-plasma",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5831,7 +1553,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 23199,
+          "optionID" : 25410,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5841,7 +1563,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 23200,
+          "optionID" : 25411,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5851,7 +1573,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 23201,
+          "optionID" : 25412,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5861,7 +1583,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 23202,
+          "optionID" : 25413,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5871,7 +1593,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 23203,
+          "optionID" : 25414,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5881,7 +1603,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 23204,
+          "optionID" : 25415,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5891,7 +1613,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23205,
+          "optionID" : 25416,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5901,7 +1623,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 23206,
+          "optionID" : 25417,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5911,7 +1633,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23207,
+          "optionID" : 25418,
           "optionName" : "Hot-Shot Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

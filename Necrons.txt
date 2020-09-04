@@ -1,3045 +1,11 @@
 {
   "games" : [ {
-    "gameName" : "Warhammer 40k 8th Edition",
+    "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
-      "listOfUnits" : [ {
-        "unitName" : "Skorpekh Destroyers",
-        "listOfOptions" : [ {
-          "optionCost" : 40.0,
-          "optionID" : 23212,
-          "optionName" : "Skorpekh Destroyer (Reap-Blade)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 23213,
-          "optionName" : "Plasmacyte",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 1,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 23214,
-          "optionName" : "Skorpekh Destroyer (Thresher)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23215,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Destroyer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23216,
-          "optionName" : "Gauss Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 55.0,
-        "unitID" : 23217,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Necron Warrior (Gauss Reaper)",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23218,
-          "optionName" : "Gauss Reaper",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 12.0,
-        "unitID" : 23219,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Vargard Obyron",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23220,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23509,
-          "optionName" : "Warscythe",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 120.0,
-        "unitID" : 23223,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Lord",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23224,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23225,
-          "optionName" : "$Artefacts of the Aeons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23226,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 23488,
-          "optionName" : "Resurrection Orb",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 70.0,
-        "unitID" : 23229,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Doom Scythe",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23230,
-          "optionName" : "Death Ray",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23345,
-          "optionName" : "Tesla Destructor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 170.0,
-        "unitID" : 23232,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Tomb Blades",
-        "listOfOptions" : [ {
-          "optionCost" : 17.0,
-          "optionID" : 23233,
-          "optionName" : "Tomb Blade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23234,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Night Shroud",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23492,
-          "optionName" : "Twin Tesla Destructor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 210.0,
-        "unitID" : 23236,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 13,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Kutlakh the World Killer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23237,
-          "optionName" : "The Obsidax",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23238,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23510,
-          "optionName" : "Staff of Light",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 200.0,
-        "unitID" : 23241,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 10,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Trazyn the Infinite",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23242,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23244,
-          "optionName" : "Empathic Obliterator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 100.0,
-        "unitID" : 23245,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Destroyer Lord",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23246,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 23247,
-          "optionName" : "Phylactery",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23248,
-          "optionName" : "$Artefacts of the Aeons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23249,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 23488,
-          "optionName" : "Resurrection Orb",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 110.0,
-        "unitID" : 23252,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Heavy Destroyer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23253,
-          "optionName" : "Heavy Gauss Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 40.0,
-        "unitID" : 23254,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Sentry Pylon",
-        "listOfOptions" : [ {
-          "optionCost" : 75.0,
-          "optionID" : 23255,
-          "optionName" : "Heat Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 50.0,
-          "optionID" : 23299,
-          "optionName" : "Gauss Exterminator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 35.0,
-          "optionID" : 23257,
-          "optionName" : "Focussed Death Ray",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 80.0,
-        "unitID" : 23258,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Power Crucible",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23259,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Scarab Swarms (Indomitus)",
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 23260,
-          "optionName" : "Scarab Swarms (Indomitus)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23261,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Scarabs (Codex)",
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 23262,
-          "optionName" : "Canoptek Scarab Swarm",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23263,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Cryptothralls",
-        "listOfOptions" : [ {
-          "optionCost" : 20.0,
-          "optionID" : 23264,
-          "optionName" : "Cryptothrall",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23265,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Wraith (Whip Coils)",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23477,
-          "optionName" : "Vicious Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 23267,
-          "optionName" : "Whip Coils",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 45.0,
-        "unitID" : 23268,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Sentry Pylon",
-        "listOfOptions" : [ {
-          "optionCost" : 80.0,
-          "optionID" : 23269,
-          "optionName" : "Sentry Pylon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 23294,
-          "optionName" : "Teleportation Matrix",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23271,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Acanthrites",
-        "listOfOptions" : [ {
-          "optionCost" : 55.0,
-          "optionID" : 23272,
-          "optionName" : "Canoptek Acanthrite",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23273,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Illuminor Szeras",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23274,
-          "optionName" : "Impaling Legs",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23275,
-          "optionName" : "Eldritch Lance",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23276,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 145.0,
-        "unitID" : 23278,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Catacomb Command Barge",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23279,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 23491,
-          "optionName" : "Gauss Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23490,
-          "optionName" : "Tesla Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23282,
-          "optionName" : "$Artefacts of the Aeons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23283,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 23488,
-          "optionName" : "Resurrection Orb",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 145.0,
-        "unitID" : 23286,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Immortals",
-        "listOfOptions" : [ {
-          "optionCost" : 18.0,
-          "optionID" : 23287,
-          "optionName" : "Immortal",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23288,
-          "optionName" : "Tesla Carbine",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23289,
-          "optionName" : "Gauss Blaster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23290,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Destroyers",
-        "listOfOptions" : [ {
-          "optionCost" : 55.0,
-          "optionID" : 23291,
-          "optionName" : "Destroyer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 3,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 23292,
-          "optionName" : "Heavy Destroyer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 2,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23293,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Gauss Pylon",
-        "listOfOptions" : [ {
-          "optionCost" : 10.0,
-          "optionID" : 23294,
-          "optionName" : "Teleportation Matrix",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23295,
-          "optionName" : "Gauss Annihilator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23296,
-          "optionName" : "Tesla Arc",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 500.0,
-        "unitID" : 23297,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 24,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Gun Emplacement Mount",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23345,
-          "optionName" : "Tesla Destructor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 50.0,
-          "optionID" : 23299,
-          "optionName" : "Gauss Exterminator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23300,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Tomb Citadel",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23301,
-          "optionName" : "Gun Emplacement Mount",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23302,
-          "optionName" : "Power Crucible",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23303,
-          "optionName" : "Tomb Ziggurat",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 730.0,
-        "unitID" : 23304,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 40,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Necron Warriors (Codex)",
-        "listOfOptions" : [ {
-          "optionCost" : 12.0,
-          "optionID" : 23305,
-          "optionName" : "Necron Warrior (Gauss Flayer)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23306,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Ghost Ark",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23320,
-          "optionName" : "Gauss Flayer Array",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 140.0,
-        "unitID" : 23308,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "C'tan Shard of the Nightbringer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23309,
-          "optionName" : "$Powers of the C'tan",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23310,
-          "optionName" : "Scythe of the Nightbringer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23312,
-          "optionName" : "Gaze of Death",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 165.0,
-        "unitID" : 23313,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Spyders",
-        "listOfOptions" : [ {
-          "optionCost" : 50.0,
-          "optionID" : 23314,
-          "optionName" : "Canoptek Spyder",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 3,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23315,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Lychguard",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23509,
-          "optionName" : "Warscythe",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23317,
-          "optionName" : "Hyperphase Sword and Dispersion Shield",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 23318,
-          "optionName" : "Lychguard",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23319,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Doomsday Ark",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23320,
-          "optionName" : "Gauss Flayer Array",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23321,
-          "optionName" : "Doomsday Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 180.0,
-        "unitID" : 23322,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Tomb Stalker",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23402,
-          "optionName" : "Automaton Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 23403,
-          "optionName" : "Gloom Prism",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23325,
-          "optionName" : "Twin Gauss Slicers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 130.0,
-        "unitID" : 23326,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Deathmark",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23327,
-          "optionName" : "Synaptic Disintegrator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 16.0,
-        "unitID" : 23328,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Tesseract Ark",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23329,
-          "optionName" : "Tesseract Singularity Chamber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23330,
-          "optionName" : "Two Gauss Cannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 23491,
-          "optionName" : "Gauss Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23332,
-          "optionName" : "Two Particle Beamers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23333,
-          "optionName" : "Two Tesla Cannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23490,
-          "optionName" : "Tesla Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 23382,
-          "optionName" : "Particle Beamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 210.0,
-        "unitID" : 23336,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 12,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "C'tan Shard of the Deceiver",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23337,
-          "optionName" : "Star-God Fists",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23338,
-          "optionName" : "$Powers of the C'tan",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 190.0,
-        "unitID" : 23340,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 10,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Triarch Praetorians",
-        "listOfOptions" : [ {
-          "optionCost" : 23.0,
-          "optionID" : 23341,
-          "optionName" : "Triarch Praetorian",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23342,
-          "optionName" : "Rod of Covenant",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23343,
-          "optionName" : "Voidblade and Particle Caster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23344,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Night Scythe",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23345,
-          "optionName" : "Tesla Destructor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 135.0,
-        "unitID" : 23346,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Wraith",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23477,
-          "optionName" : "Vicious Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 45.0,
-        "unitID" : 23348,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Spyder",
-        "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 23403,
-          "optionName" : "Gloom Prism",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 23350,
-          "optionName" : "Fabricator Claw Array",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 23382,
-          "optionName" : "Particle Beamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23402,
-          "optionName" : "Automaton Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23353,
-          "optionName" : "Two Particle Beamers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 50.0,
-        "unitID" : 23354,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Tesseract Vault",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23355,
-          "optionName" : "$Powers of the C'tan",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23386,
-          "optionName" : "Tesla Sphere",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 550.0,
-        "unitID" : 23357,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 28,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Deathmarks",
-        "listOfOptions" : [ {
-          "optionCost" : 16.0,
-          "optionID" : 23358,
-          "optionName" : "Deathmark",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23359,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Nemesor Zahndrekh",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23360,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23510,
-          "optionName" : "Staff of Light",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 135.0,
-        "unitID" : 23363,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Toholk the Blinded",
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 23364,
-          "optionName" : "Transdimensional Beamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23365,
-          "optionName" : "Aeonstave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23366,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 125.0,
-        "unitID" : 23368,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Plasmancer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23369,
-          "optionName" : "$Artefacts of the Aeons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23370,
-          "optionName" : "Plasmic Lance",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23371,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 80.0,
-        "unitID" : 23373,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Skorpekh Destroyer (Reap-Blade)",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23374,
-          "optionName" : "Hyperphase Reap-Blade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 40.0,
-        "unitID" : 23375,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Cryptothrall",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23376,
-          "optionName" : "Scouring Eye",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23377,
-          "optionName" : "Scythed Limbs",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 20.0,
-        "unitID" : 23378,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Tomb Blade",
-        "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 23379,
-          "optionName" : "Shadowloom",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 23380,
-          "optionName" : "Two Tesla Carbines",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 23381,
-          "optionName" : "Shieldvanes",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 23382,
-          "optionName" : "Particle Beamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 23383,
-          "optionName" : "Two Gauss Blasters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 23384,
-          "optionName" : "Nebuloscope",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 17.0,
-        "unitID" : 23385,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Obelisk",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23386,
-          "optionName" : "Tesla Sphere",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 390.0,
-        "unitID" : 23387,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 20,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Wraiths",
-        "listOfOptions" : [ {
-          "optionCost" : 45.0,
-          "optionID" : 23388,
-          "optionName" : "Canoptek Wraith (Particle Caster)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 45.0,
-          "optionID" : 23389,
-          "optionName" : "Canoptek Wraith (Whip Coils)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 45.0,
-          "optionID" : 23390,
-          "optionName" : "Canoptek Wraith",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 45.0,
-          "optionID" : 23391,
-          "optionName" : "Canoptek Wraith (Transdimensional Beamer)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23392,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Flayed Ones",
-        "listOfOptions" : [ {
-          "optionCost" : 14.0,
-          "optionID" : 23393,
-          "optionName" : "Flayed One",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23394,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Necron Warriors (Indomitus)",
-        "listOfOptions" : [ {
-          "optionCost" : 12.0,
-          "optionID" : 23395,
-          "optionName" : "Necron Warrior (Gauss Reaper)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 12.0,
-          "optionID" : 23396,
-          "optionName" : "Necron Warrior (Gauss Flayer)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23397,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Wraith (Particle Caster)",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23398,
-          "optionName" : "Particle Caster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23477,
-          "optionName" : "Vicious Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 45.0,
-        "unitID" : 23400,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Tomb Sentinel",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23401,
-          "optionName" : "Exile Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23402,
-          "optionName" : "Automaton Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 23403,
-          "optionName" : "Gloom Prism",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 150.0,
-        "unitID" : 23404,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Reanimator",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23405,
-          "optionName" : "Elongated Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23406,
-          "optionName" : "Atomiser Beam",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 110.0,
-        "unitID" : 23407,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Cryptek",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23510,
-          "optionName" : "Staff of Light",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 23409,
-          "optionName" : "Canoptek Cloak",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23410,
-          "optionName" : "$Artefacts of the Aeons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23411,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 23413,
-          "optionName" : "Chronometron",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 85.0,
-        "unitID" : 23414,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Overlord (Indomitus)",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23415,
-          "optionName" : "$Artefacts of the Aeons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23416,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23423,
-          "optionName" : "Tachyon Arrow",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23419,
-          "optionName" : "Hyperphase Glaive",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 90.0,
-        "unitID" : 23420,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Anrakyr the Traveller",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23421,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23509,
-          "optionName" : "Warscythe",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23423,
-          "optionName" : "Tachyon Arrow",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 130.0,
-        "unitID" : 23425,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Orikan the Diviner",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23426,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23427,
-          "optionName" : "Staff of Tomorrow",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 110.0,
-        "unitID" : 23429,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Acanthrite",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23430,
-          "optionName" : "Voidblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23431,
-          "optionName" : "Cutting Beam",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 55.0,
-        "unitID" : 23432,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Scarab Swarms (Indomitus)",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23433,
-          "optionName" : "Feeder Mandibles (Indomitus)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 15.0,
-        "unitID" : 23434,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Tomb Ziggurat",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23435,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Skorpekh Lord",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23436,
-          "optionName" : "Flensing Claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23437,
-          "optionName" : "Hyperphase Harvester",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23438,
-          "optionName" : "$Artefacts of the Aeons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23439,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23441,
-          "optionName" : "Enmitic Annihilator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 130.0,
-        "unitID" : 23442,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "!Lokhust Heavy Destroyer",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 70.0,
-        "unitID" : 23443,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Heavy Destroyers",
-        "listOfOptions" : [ {
-          "optionCost" : 40.0,
-          "optionID" : 23444,
-          "optionName" : "Heavy Destroyer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 2,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 23445,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Transcendent C'tan",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23446,
-          "optionName" : "Fractured Personality: Writhing Worldscape",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23447,
-          "optionName" : "Fractured Personality: Sentient Necrodermis",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23448,
-          "optionName" : "Fractured Personality: Entropic Touch",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23449,
-          "optionName" : "Crackling Tendrils",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23450,
-          "optionName" : "$Powers of the C'tan",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23451,
-          "optionName" : "Fractured Personality: Transdimensional Displacement",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23452,
-          "optionName" : "Fractured Personality: Cosmic Tyrant",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23454,
-          "optionName" : "Fractured Personality: Immune to Natural Law",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23455,
-          "optionName" : "Random Fractured Personality",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 195.0,
-        "unitID" : 23456,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 10,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Flayed One",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23457,
-          "optionName" : "Flayer Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 14.0,
-        "unitID" : 23458,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Seraptek Heavy Construct",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23459,
-          "optionName" : "Titanic Forelimbs",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23460,
-          "optionName" : "Transdimensional Projector",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23461,
-          "optionName" : "Two Singularity Generators",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23462,
-          "optionName" : "Singularity Generator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23463,
-          "optionName" : "Synaptic Obliterator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23464,
-          "optionName" : "Two Synaptic Obliterators and Two Transdimensional Projectors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 660.0,
-        "unitID" : 23465,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 32,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Plasmacyte",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23466,
-          "optionName" : "Monomolecular Proboscis",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 15.0,
-        "unitID" : 23467,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 1,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Royal Warden",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23468,
-          "optionName" : "Relic Gauss Blaster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23469,
-          "optionName" : "$Artefacts of the Aeons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23470,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 80.0,
-        "unitID" : 23472,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Monolith",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23473,
-          "optionName" : "Particle Whip",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23474,
-          "optionName" : "Gauss Flux Arc",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 270.0,
-        "unitID" : 23475,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 14,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Wraith (Transdimensional Beamer)",
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 23476,
-          "optionName" : "Transdimensional Beamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23477,
-          "optionName" : "Vicious Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 45.0,
-        "unitID" : 23478,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Imotekh the Stormlord",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23479,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23481,
-          "optionName" : "Staff of the Destroyer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23482,
-          "optionName" : "Gauntlet of Fire",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 150.0,
-        "unitID" : 23483,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Overlord (Codex)",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23484,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23485,
-          "optionName" : "$Artefacts of the Aeons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23486,
-          "optionName" : "$Warlord Trait",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23487,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 23488,
-          "optionName" : "Resurrection Orb",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 85.0,
-        "unitID" : 23489,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Annihilation Barge",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23490,
-          "optionName" : "Tesla Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 23491,
-          "optionName" : "Gauss Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23492,
-          "optionName" : "Twin Tesla Destructor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 115.0,
-        "unitID" : 23493,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Skorpekh Destroyer (Thresher)",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23494,
-          "optionName" : "Hyperphase Threshers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 40.0,
-        "unitID" : 23495,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Lychguard",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 30.0,
-        "unitID" : 23496,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Immortal",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 18.0,
-        "unitID" : 23497,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Triarch Praetorian",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 23.0,
-        "unitID" : 23498,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Triarch Stalker",
-        "listOfOptions" : [ {
-          "optionCost" : 30.0,
-          "optionID" : 23499,
-          "optionName" : "Heat Ray",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 23500,
-          "optionName" : "Twin Heavy Gauss Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 23501,
-          "optionName" : "Particle Shredder",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 23502,
-          "optionName" : "Massive Forelimbs",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 95.0,
-        "unitID" : 23503,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "!Canoptek Doomstalker",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 130.0,
-        "unitID" : 23504,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Necron Warrior (Gauss Flayer)",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23505,
-          "optionName" : "Gauss Flayer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 12.0,
-        "unitID" : 23506,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Canoptek Scarab Swarm",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 23507,
-          "optionName" : "Feeder Mandibles",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 15.0,
-        "unitID" : 23508,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23509,
+          "optionID" : 25720,
           "optionName" : "Warscythe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3049,7 +15,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23510,
+          "optionID" : 25721,
           "optionName" : "Staff of Light",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3059,7 +25,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23511,
+          "optionID" : 25722,
           "optionName" : "Voidblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3069,7 +35,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 23512,
+          "optionID" : 25723,
           "optionName" : "Voidscythe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3079,7 +45,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23513,
+          "optionID" : 25724,
           "optionName" : "Hyperphase Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3092,7 +58,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23514,
+          "optionID" : 25725,
           "optionName" : "Dynastic Heirlooms: 1 Extra Artefact",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3102,7 +68,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23515,
+          "optionID" : 25726,
           "optionName" : "Dynastic Heirlooms: 2 Extra Artefacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3115,7 +81,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23516,
+          "optionID" : 25727,
           "optionName" : "Dynasty: <Custom>",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3125,7 +91,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23517,
+          "optionID" : 25728,
           "optionName" : "Dynasty: Nephrekh",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3135,7 +101,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23518,
+          "optionID" : 25729,
           "optionName" : "Dynasty: <Mixed>",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3145,7 +111,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23519,
+          "optionID" : 25730,
           "optionName" : "Dynasty: Mephrit",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3155,7 +121,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23520,
+          "optionID" : 25731,
           "optionName" : "Dynasty: Novokh",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3165,7 +131,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23521,
+          "optionID" : 25732,
           "optionName" : "Dynasty: Nihilakh",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3175,7 +141,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23522,
+          "optionID" : 25733,
           "optionName" : "Dynasty: Maynarkh",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3185,7 +151,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23523,
+          "optionID" : 25734,
           "optionName" : "Dynasty: Sautekh",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3198,7 +164,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23524,
+          "optionID" : 25735,
           "optionName" : "Power of the C'tan: Seismic Assault",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3208,7 +174,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23525,
+          "optionID" : 25736,
           "optionName" : "Power of the C'tan: Transdimensional Thunderbolt",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3218,7 +184,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23526,
+          "optionID" : 25737,
           "optionName" : "Power of the C'tan: Antimatter Meteor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3228,7 +194,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23527,
+          "optionID" : 25738,
           "optionName" : "Power of the C'tan: Sky of Falling Stars",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3238,7 +204,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23528,
+          "optionID" : 25739,
           "optionName" : "Power of the C'tan: Time's Arrow",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3248,7 +214,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23529,
+          "optionID" : 25740,
           "optionName" : "Power of the C'tan: Cosmic Fire",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3261,7 +227,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23530,
+          "optionID" : 25741,
           "optionName" : "Artefact: The Nanoscarab Casket",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3271,7 +237,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23531,
+          "optionID" : 25742,
           "optionName" : "Artefact: The Orb of Eternity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3281,7 +247,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23532,
+          "optionID" : 25743,
           "optionName" : "Artefact (Mephrit): The Voltaic Staff",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3291,7 +257,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23533,
+          "optionID" : 25744,
           "optionName" : "Artefact (Nephrekh): The Solar Staff",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3301,7 +267,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23534,
+          "optionID" : 25745,
           "optionName" : "Artefact: Voidreaper",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3311,7 +277,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23535,
+          "optionID" : 25746,
           "optionName" : "Artefact (Novokh): The Blood Scythe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3321,7 +287,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23536,
+          "optionID" : 25747,
           "optionName" : "Artefact (Nihilakh): Timesplinter Cloak",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3331,7 +297,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23537,
+          "optionID" : 25748,
           "optionName" : "Artefact: The Veil of Darkness",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3341,7 +307,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23538,
+          "optionID" : 25749,
           "optionName" : "Artefact (Sautekh): The Abyssal Staff",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3351,7 +317,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23539,
+          "optionID" : 25750,
           "optionName" : "Artefact: Sempiternal Weave",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3361,7 +327,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23540,
+          "optionID" : 25751,
           "optionName" : "Artefact: The Nightmare Shroud",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3371,7 +337,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23541,
+          "optionID" : 25752,
           "optionName" : "Artefact: Lightning Field",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3381,7 +347,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23542,
+          "optionID" : 25753,
           "optionName" : "Artefact: The Gauntlet of the Conflagrator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3394,7 +360,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23543,
+          "optionID" : 25754,
           "optionName" : "Warlord Trait (Codex 2): Eternal Madness",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3404,7 +370,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23544,
+          "optionID" : 25755,
           "optionName" : "Warlord Trait (Sautekh): Hyperlogical Strategist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3414,7 +380,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23545,
+          "optionID" : 25756,
           "optionName" : "Warlord Trait (Codex 1): Enduring Will",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3424,7 +390,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23546,
+          "optionID" : 25757,
           "optionName" : "Warlord Trait (BRB): Inspiring Leader",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3434,7 +400,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23547,
+          "optionID" : 25758,
           "optionName" : "Warlord Trait (Codex 4): Thrall of the Silent King",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3444,7 +410,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23548,
+          "optionID" : 25759,
           "optionName" : "Warlord Trait (Mephrit): Merciless Tyrant",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3454,7 +420,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23549,
+          "optionID" : 25760,
           "optionName" : "Warlord Trait (Novokh): Crimson Haze",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3464,7 +430,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23550,
+          "optionID" : 25761,
           "optionName" : "Warlord Trait (Nihilakh): Precognitive Strike",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3474,7 +440,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23551,
+          "optionID" : 25762,
           "optionName" : "Warlord Trait (Codex 5): Implacable Conqueror",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3484,7 +450,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23552,
+          "optionID" : 25763,
           "optionName" : "Warlord Trait (Codex 6): Honourable Combatant",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3494,7 +460,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23553,
+          "optionID" : 25764,
           "optionName" : "Warlord Trait (Codex 3): Immortal Pride",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3504,7 +470,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23554,
+          "optionID" : 25765,
           "optionName" : "Warlord Trait (Nephrekh): Skin of Living Gold",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3517,7 +483,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23555,
+          "optionID" : 25766,
           "optionName" : "Dynastic Code: Translocation Beams",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3527,7 +493,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23556,
+          "optionID" : 25767,
           "optionName" : "Dynastic Code: Aggressively Territorial",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3537,7 +503,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23557,
+          "optionID" : 25768,
           "optionName" : "Dynastic Code: Relentless Advance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3547,7 +513,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23558,
+          "optionID" : 25769,
           "optionName" : "Dynastic Code: Solar Fury",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3557,7 +523,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23559,
+          "optionID" : 25770,
           "optionName" : "Dynastic Code: Awakened By Murder",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

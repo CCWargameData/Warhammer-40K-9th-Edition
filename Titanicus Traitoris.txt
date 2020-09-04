@@ -1,163 +1,11 @@
 {
   "games" : [ {
-    "gameName" : "Warhammer 40k 8th Edition",
+    "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
-      "listOfUnits" : [ {
-        "unitName" : "Chaos Warhound Scout Titan",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 5213,
-          "optionName" : "Titanic Stride",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5204,
-          "optionName" : "Titan inferno gun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5219,
-          "optionName" : "Titan plasma blastgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5223,
-          "optionName" : "Dual turbo-laser destructor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5207,
-          "optionName" : "Titan vulcan mega-bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 2000.0,
-        "unitID" : 5208,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 100,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Chaos Reaver Battle Titan",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 5218,
-          "optionName" : "Reaver gatling blaster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5210,
-          "optionName" : "Reaver volcano cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5211,
-          "optionName" : "Reaver chainfist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5221,
-          "optionName" : "Reaver laser blaster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5213,
-          "optionName" : "Titanic Stride",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5214,
-          "optionName" : "Reaver power fist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5215,
-          "optionName" : "$Carapace mounted weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5216,
-          "optionName" : "Reaver melta cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 4000.0,
-        "unitID" : 5217,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 200,
-          "Command points" : 0
-        }
-      } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 5218,
+          "optionID" : 5503,
           "optionName" : "Reaver gatling blaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -167,7 +15,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5219,
+          "optionID" : 5504,
           "optionName" : "Titan plasma blastgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -177,7 +25,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5220,
+          "optionID" : 5505,
           "optionName" : "Apocalypse missile launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -187,7 +35,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5221,
+          "optionID" : 5506,
           "optionName" : "Reaver laser blaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -197,7 +45,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5222,
+          "optionID" : 5507,
           "optionName" : "Incinerator missile bank",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -207,7 +55,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5223,
+          "optionID" : 5508,
           "optionName" : "Dual turbo-laser destructor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -217,7 +65,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5224,
+          "optionID" : 5509,
           "optionName" : "Twin Titan mega-bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
