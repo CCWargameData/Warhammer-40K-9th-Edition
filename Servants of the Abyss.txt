@@ -1,12 +1,56 @@
 {
   "games" : [ {
-    "gameName" : "Warhammer 40k 8th Edition",
+    "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
+        "unitName" : "Rogue Psyker",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 12742,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5824,
+          "optionName" : "Chaos stave",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 38517,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 35.0,
+        "unitID" : 5826,
+        "autoAddDictionary" : {
+          "5824" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
         "unitName" : "Traitor Commissar",
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 22754,
+          "optionID" : 38515,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +60,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4634,
+          "optionID" : 5866,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +70,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22747,
+          "optionID" : 38590,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -37,7 +81,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 55.0,
-        "unitID" : 4604,
+        "unitID" : 5830,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -48,7 +92,7 @@
         "unitName" : "Chaos Ogryn",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4605,
+          "optionID" : 5831,
           "optionName" : "Mutant claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -58,7 +102,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4606,
+          "optionID" : 5832,
           "optionName" : "Scavenged Maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -69,10 +113,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 70.0,
-        "unitID" : 4607,
+        "unitID" : 5833,
         "autoAddDictionary" : {
-          "4606" : 1,
-          "4605" : 1
+          "5831" : 1,
+          "5832" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -80,10 +124,78 @@
           "Command points" : 0
         }
       }, {
+        "unitName" : "Cultist Firebrand",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 12742,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 38592,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5836,
+          "optionName" : "Hellfire torch",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 35.0,
+        "unitID" : 5837,
+        "autoAddDictionary" : {
+          "5836" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Autogun",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 5838,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Warlord",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 5839,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
         "unitName" : "Cultists of the Abyss",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4608,
+          "optionID" : 5840,
           "optionName" : "Cultists",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -93,7 +205,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4609,
+          "optionID" : 5841,
           "optionName" : "Autogun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -103,7 +215,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4610,
+          "optionID" : 5842,
           "optionName" : "Cultist w/ Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -113,7 +225,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23211,
+          "optionID" : 39043,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -123,7 +235,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22762,
+          "optionID" : 38592,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -133,7 +245,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4613,
+          "optionID" : 5845,
           "optionName" : "Cultist w/ Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -143,7 +255,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22762,
+          "optionID" : 38592,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -153,7 +265,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4615,
+          "optionID" : 5847,
           "optionName" : "Cultist Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -164,12 +276,12 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 40.0,
-        "unitID" : 4616,
+        "unitID" : 5848,
         "autoAddDictionary" : {
-          "4608" : 4,
-          "4610" : 1,
-          "4613" : 1,
-          "4615" : 1
+          "5840" : 4,
+          "5842" : 1,
+          "5845" : 1,
+          "5847" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -180,7 +292,7 @@
         "unitName" : "Traitor Guardsmen",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 14975,
+          "optionID" : 22666,
           "optionName" : "Frag grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -190,7 +302,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9276,
+          "optionID" : 12742,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -200,7 +312,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 19231,
+          "optionID" : 31453,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -210,7 +322,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4620,
+          "optionID" : 5852,
           "optionName" : "Traitor Guardsman",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -220,7 +332,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 14980,
+          "optionID" : 22686,
           "optionName" : "Krak grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -230,7 +342,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4622,
+          "optionID" : 5854,
           "optionName" : "Traitor Guardsman",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -240,7 +352,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4623,
+          "optionID" : 5855,
           "optionName" : "Traitor Guardsman",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -250,7 +362,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 23211,
+          "optionID" : 39043,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -260,7 +372,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4625,
+          "optionID" : 5857,
           "optionName" : "Traitor Sergeant",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -270,7 +382,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4626,
+          "optionID" : 5858,
           "optionName" : "Traitor Guardsman",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -281,10 +393,10 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 40.0,
-        "unitID" : 4627,
+        "unitID" : 5859,
         "autoAddDictionary" : {
-          "4620" : 2,
-          "4625" : 1
+          "5852" : 2,
+          "5857" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -295,7 +407,7 @@
         "unitName" : "Chaos Beastmen",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4628,
+          "optionID" : 5860,
           "optionName" : "Chaos Beastman",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -305,7 +417,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22762,
+          "optionID" : 38592,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -316,9 +428,9 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 26.0,
-        "unitID" : 4630,
+        "unitID" : 5862,
         "autoAddDictionary" : {
-          "4628" : 4
+          "5860" : 4
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -329,7 +441,7 @@
         "unitName" : "Negavolt Cultists",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4631,
+          "optionID" : 5863,
           "optionName" : "Negavolt Cultist",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -340,9 +452,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 50.0,
-        "unitID" : 4632,
+        "unitID" : 5864,
         "autoAddDictionary" : {
-          "4631" : 4
+          "5863" : 4
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -353,7 +465,7 @@
         "unitName" : "Obsidius Mallex",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4633,
+          "optionID" : 5865,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -363,7 +475,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4634,
+          "optionID" : 5866,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -373,7 +485,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 22928,
+          "optionID" : 38760,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -384,9 +496,9 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 130.0,
-        "unitID" : 4636,
+        "unitID" : 5868,
         "autoAddDictionary" : {
-          "4633" : 1
+          "5865" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -397,7 +509,7 @@
         "unitName" : "Black Legionnaires",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 23205,
+          "optionID" : 39037,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -407,7 +519,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22747,
+          "optionID" : 38590,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -417,7 +529,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22762,
+          "optionID" : 38592,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -427,7 +539,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4640,
+          "optionID" : 5872,
           "optionName" : "Black Legionnaire",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -438,9 +550,9 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 28.0,
-        "unitID" : 4641,
+        "unitID" : 5873,
         "autoAddDictionary" : {
-          "4640" : 2
+          "5872" : 2
         },
         "startingModels" : 0,
         "listOfCurrencies" : {

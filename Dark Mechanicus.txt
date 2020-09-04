@@ -1,262 +1,24 @@
 {
   "games" : [ {
-    "gameName" : "Warhammer 40k 8th Edition",
+    "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "Renegade Knight Magaera",
-        "listOfOptions" : [ {
-          "optionCost" : 70.0,
-          "optionID" : 3315,
-          "optionName" : "Lightning cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 3316,
-          "optionName" : "Ectoplasma fusil",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 3340,
-          "optionName" : "Hekaton siege claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 1,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 3343,
-          "optionName" : "Reaper chainsword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 380.0,
-        "unitID" : 3319,
+        "unitName" : "Tempest warblade",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 30.0,
+        "unitID" : 4208,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 28,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Renegade Knight Castigator",
-        "listOfOptions" : [ {
-          "optionCost" : 50.0,
-          "optionID" : 3320,
-          "optionName" : "Castigator bolt cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 3321,
-          "optionName" : "Tempest warblade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3347,
-          "optionName" : "Titanic feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 350.0,
-        "unitID" : 3323,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 25,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Renegade Knight Acheron",
-        "listOfOptions" : [ {
-          "optionCost" : 80.0,
-          "optionID" : 3324,
-          "optionName" : "Acheron flame cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3347,
-          "optionName" : "Titanic feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 3326,
-          "optionName" : "Reaper chainfist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 358.0,
-        "unitID" : 3327,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 25,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Renegade Knight Lancer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 3328,
-          "optionName" : "Shock blast",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 60.0,
-          "optionID" : 3329,
-          "optionName" : "Cerastus shock lance",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3347,
-          "optionName" : "Titanic feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 360.0,
-        "unitID" : 3331,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 24,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Renegade Knight Porphyrion",
-        "listOfOptions" : [ {
-          "optionCost" : 20.0,
-          "optionID" : 15641,
-          "optionName" : "Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 45.0,
-          "optionID" : 3333,
-          "optionName" : "Helios defence missiles",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 4456,
-          "optionName" : "Autocannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 100.0,
-          "optionID" : 3335,
-          "optionName" : "Twin magna lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3347,
-          "optionName" : "Titanic feet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 16.0,
-          "optionID" : 3337,
-          "optionName" : "Ironstorm missile pod",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 540.0,
-        "unitID" : 3338,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 40,
+          "Power level" : 0,
           "Command points" : 0
         }
       }, {
         "unitName" : "Renegade Knight Styrix",
         "listOfOptions" : [ {
           "optionCost" : 25.0,
-          "optionID" : 3339,
+          "optionID" : 4209,
           "optionName" : "Graviton crusher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -266,7 +28,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 3340,
+          "optionID" : 4271,
           "optionName" : "Hekaton siege claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -276,7 +38,7 @@
           }
         }, {
           "optionCost" : 80.0,
-          "optionID" : 3341,
+          "optionID" : 4211,
           "optionName" : "Hellburner chieorovile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -286,7 +48,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3347,
+          "optionID" : 4249,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -296,7 +58,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 3343,
+          "optionID" : 4281,
           "optionName" : "Reaper chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -307,7 +69,7 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 340.0,
-        "unitID" : 3344,
+        "unitID" : 4214,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -318,7 +80,7 @@
         "unitName" : "Renegade Knight Atropos",
         "listOfOptions" : [ {
           "optionCost" : 80.0,
-          "optionID" : 3345,
+          "optionID" : 4215,
           "optionName" : "Atropos lascutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -328,7 +90,7 @@
           }
         }, {
           "optionCost" : 70.0,
-          "optionID" : 3346,
+          "optionID" : 4216,
           "optionName" : "Graviton singularity cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -338,7 +100,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3347,
+          "optionID" : 4249,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -349,7 +111,7 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 405.0,
-        "unitID" : 3348,
+        "unitID" : 4218,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -357,10 +119,384 @@
           "Command points" : 0
         }
       }, {
+        "unitName" : "Soulburner pistol",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 4219,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Renegade Knight Castigator",
+        "listOfOptions" : [ {
+          "optionCost" : 50.0,
+          "optionID" : 4220,
+          "optionName" : "Castigator bolt cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 4221,
+          "optionName" : "Tempest warblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4249,
+          "optionName" : "Titanic feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 350.0,
+        "unitID" : 4223,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 25,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Thunderstrike gauntlet",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 35.0,
+        "unitID" : 4224,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Renegade Knight Lancer",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4225,
+          "optionName" : "Shock blast",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 60.0,
+          "optionID" : 4226,
+          "optionName" : "Cerastus shock lance",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4249,
+          "optionName" : "Titanic feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 360.0,
+        "unitID" : 4228,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 24,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Cerastus shock lance",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 60.0,
+        "unitID" : 4229,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Graviton singularity cannon",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 70.0,
+        "unitID" : 4230,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Ironstorm missile pod",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 16.0,
+        "unitID" : 4231,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Shock blast",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 4232,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Reaper chainfist",
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "optionID" : 23854,
+          "optionName" : "Twin heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 40.0,
+        "unitID" : 4234,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Twin rad cleanser",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 25.0,
+        "unitID" : 4235,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Helios defence missiles",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 45.0,
+        "unitID" : 4236,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Renegade Knight Acheron",
+        "listOfOptions" : [ {
+          "optionCost" : 80.0,
+          "optionID" : 4237,
+          "optionName" : "Acheron flame cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4249,
+          "optionName" : "Titanic feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 40.0,
+          "optionID" : 4239,
+          "optionName" : "Reaper chainfist",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 358.0,
+        "unitID" : 4240,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 25,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Lightning cannon",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 70.0,
+        "unitID" : 4241,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Castigator bolt cannon",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 50.0,
+        "unitID" : 4242,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Hekaton siege claw",
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "optionID" : 4243,
+          "optionName" : "Twin rad cleanser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 30.0,
+        "unitID" : 4244,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 1,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Renegade Knight Porphyrion",
+        "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 23708,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 45.0,
+          "optionID" : 4246,
+          "optionName" : "Helios defence missiles",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 5740,
+          "optionName" : "Autocannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 100.0,
+          "optionID" : 4248,
+          "optionName" : "Twin magna lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4249,
+          "optionName" : "Titanic feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 4250,
+          "optionName" : "Ironstorm missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 540.0,
+        "unitID" : 4251,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 40,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Acheron flame cannon",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 80.0,
+        "unitID" : 4252,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
         "unitName" : "Chaos Hellwright",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3357,
+          "optionID" : 4261,
           "optionName" : "Soulburner pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -370,7 +506,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 19231,
+          "optionID" : 31453,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -380,14 +516,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3351,
+          "optionID" : 4255,
           "optionName" : "$Mark of Chaos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3361,
+          "optionID" : 4265,
           "optionName" : "Voidcutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -397,7 +533,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3353,
+          "optionID" : 4257,
           "optionName" : "Infernal axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -407,7 +543,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3354,
+          "optionID" : 4258,
           "optionName" : "Mechatendrils",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -417,7 +553,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22762,
+          "optionID" : 38592,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -428,10 +564,10 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 90.0,
-        "unitID" : 3356,
+        "unitID" : 4260,
         "autoAddDictionary" : {
-          "3354" : 1,
-          "3353" : 1
+          "4257" : 1,
+          "4258" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -442,7 +578,7 @@
         "unitName" : "Chaos Hellwright on Dark Abeyant",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3357,
+          "optionID" : 4261,
           "optionName" : "Soulburner pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -452,7 +588,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 19231,
+          "optionID" : 31453,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -462,14 +598,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3359,
+          "optionID" : 4263,
           "optionName" : "$Mark of Chaos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3360,
+          "optionID" : 4264,
           "optionName" : "Mechatendrils",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -479,7 +615,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3361,
+          "optionID" : 4265,
           "optionName" : "Voidcutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -489,7 +625,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 3362,
+          "optionID" : 4266,
           "optionName" : "Warpfire lance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -499,7 +635,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3363,
+          "optionID" : 4267,
           "optionName" : "Infernal axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -510,22 +646,228 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 100.0,
-        "unitID" : 3364,
+        "unitID" : 4268,
         "autoAddDictionary" : {
-          "3363" : 1,
-          "3362" : 1,
-          "3360" : 1
+          "4264" : 1,
+          "4266" : 1,
+          "4267" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 9,
           "Command points" : 0
         }
+      }, {
+        "unitName" : "Renegade Knight Magaera",
+        "listOfOptions" : [ {
+          "optionCost" : 70.0,
+          "optionID" : 4269,
+          "optionName" : "Lightning cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 4270,
+          "optionName" : "Ectoplasma fusil",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 4271,
+          "optionName" : "Hekaton siege claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 1,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 4281,
+          "optionName" : "Reaper chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 380.0,
+        "unitID" : 4273,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 28,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Ectoplasma fusil",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 20.0,
+        "unitID" : 4274,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Atropos lascutter",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 80.0,
+        "unitID" : 4275,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Reaper chainsword",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 30.0,
+        "unitID" : 4276,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Voidcutter",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 4277,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Renegade Knight",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4278,
+          "optionName" : "$Carapace Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "optionID" : 4279,
+          "optionName" : "Thunderstrike gauntlet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4280,
+          "optionName" : "Titanic feet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 4281,
+          "optionName" : "Reaper chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4282,
+          "optionName" : "$Knight weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Lords of War",
+        "unitCost" : 285.0,
+        "unitID" : 4283,
+        "autoAddDictionary" : {
+          "4280" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 25,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Graviton crusher",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 25.0,
+        "unitID" : 4284,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Twin magna lascannon",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 100.0,
+        "unitID" : 4285,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Hellburner chieorovile",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 80.0,
+        "unitID" : 4286,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "Titanic feet",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 4287,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 16.0,
-          "optionID" : 3365,
+          "optionID" : 4288,
           "optionName" : "Ironstorm Missile Pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -535,7 +877,7 @@
           }
         }, {
           "optionCost" : 45.0,
-          "optionID" : 3366,
+          "optionID" : 4289,
           "optionName" : "Stormspear Rocket Pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -545,7 +887,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 3367,
+          "optionID" : 4290,
           "optionName" : "Twin Icarus Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -558,7 +900,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3368,
+          "optionID" : 4291,
           "optionName" : "Mark of Slaanesh",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -568,7 +910,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3369,
+          "optionID" : 4292,
           "optionName" : "No Chaos Mark",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -578,7 +920,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3370,
+          "optionID" : 4293,
           "optionName" : "Mark of Nurgle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -588,7 +930,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3371,
+          "optionID" : 4294,
           "optionName" : "Mark of Tzeentch",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -598,7 +940,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3372,
+          "optionID" : 4295,
           "optionName" : "Mark of Khorne",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -611,7 +953,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 76.0,
-          "optionID" : 3373,
+          "optionID" : 4296,
           "optionName" : "Thermal cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -621,7 +963,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3374,
+          "optionID" : 4297,
           "optionName" : "Rapid-fire battle cannon and heavy stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -631,7 +973,7 @@
           }
         }, {
           "optionCost" : 95.0,
-          "optionID" : 3375,
+          "optionID" : 4298,
           "optionName" : "Avenger gatling cannon and heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

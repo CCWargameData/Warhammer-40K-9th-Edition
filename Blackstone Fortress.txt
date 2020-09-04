@@ -1,12 +1,12 @@
 {
   "games" : [ {
-    "gameName" : "Warhammer 40k 8th Edition",
+    "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
         "unitName" : "UR-025",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9272,
+          "optionID" : 12738,
           "optionName" : "Power claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9273,
+          "optionID" : 12739,
           "optionName" : "Mk I assault cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9286,
+          "optionID" : 12753,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -37,10 +37,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 45.0,
-        "unitID" : 9275,
+        "unitID" : 12741,
         "autoAddDictionary" : {
-          "9272" : 1,
-          "9273" : 1
+          "12738" : 1,
+          "12739" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -51,7 +51,7 @@
         "unitName" : "Espern Locarno",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9276,
+          "optionID" : 12742,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -61,7 +61,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9286,
+          "optionID" : 12753,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -71,7 +71,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9278,
+          "optionID" : 12744,
           "optionName" : "Force-orb cane",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -81,7 +81,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22756,
+          "optionID" : 38517,
           "optionName" : "Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -92,9 +92,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 35.0,
-        "unitID" : 9280,
+        "unitID" : 12746,
         "autoAddDictionary" : {
-          "9278" : 1
+          "12744" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -102,10 +102,22 @@
           "Command points" : 0
         }
       }, {
+        "unitName" : "Warlord",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 12747,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
         "unitName" : "Neyam Shai Murad",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9286,
+          "optionID" : 12753,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -115,7 +127,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9282,
+          "optionID" : 12749,
           "optionName" : "Negotiator pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -126,9 +138,9 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 55.0,
-        "unitID" : 9283,
+        "unitID" : 12750,
         "autoAddDictionary" : {
-          "9282" : 1
+          "12749" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -139,7 +151,7 @@
         "unitName" : "Janus Draik",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9284,
+          "optionID" : 12751,
           "optionName" : "Heirloom pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -149,7 +161,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9285,
+          "optionID" : 12752,
           "optionName" : "Monomolecular rapier",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -159,7 +171,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9286,
+          "optionID" : 12753,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -169,7 +181,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9287,
+          "optionID" : 12754,
           "optionName" : "Archeotech grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -180,11 +192,11 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 45.0,
-        "unitID" : 9288,
+        "unitID" : 12755,
         "autoAddDictionary" : {
-          "9287" : 1,
-          "9285" : 1,
-          "9284" : 1
+          "12751" : 1,
+          "12752" : 1,
+          "12754" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -195,7 +207,7 @@
         "unitName" : "Spindle Drones",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9289,
+          "optionID" : 12756,
           "optionName" : "Spindle Drone",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -206,9 +218,9 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 65.0,
-        "unitID" : 9290,
+        "unitID" : 12757,
         "autoAddDictionary" : {
-          "9289" : 4
+          "12756" : 4
         },
         "startingModels" : 0,
         "listOfCurrencies" : {

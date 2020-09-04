@@ -1,12 +1,12 @@
 {
   "games" : [ {
-    "gameName" : "Warhammer 40k 8th Edition",
+    "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
         "unitName" : "Callidus Assassin",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 22776,
+          "optionID" : 38602,
           "optionName" : "Phase Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22777,
+          "optionID" : 38603,
           "optionName" : "Poison Blades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22778,
+          "optionID" : 38604,
           "optionName" : "Neural Shredder",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -37,7 +37,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 100.0,
-        "unitID" : 22779,
+        "unitID" : 38605,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -48,7 +48,7 @@
         "unitName" : "Culexus Assassin",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 22780,
+          "optionID" : 38606,
           "optionName" : "Animus Speculum",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -58,7 +58,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22781,
+          "optionID" : 38607,
           "optionName" : "Psyk-out Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -69,7 +69,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 100.0,
-        "unitID" : 22782,
+        "unitID" : 38608,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -80,7 +80,7 @@
         "unitName" : "Eversor Assassin",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 22783,
+          "optionID" : 38609,
           "optionName" : "Neuro-gauntlet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -90,7 +90,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22784,
+          "optionID" : 38610,
           "optionName" : "Melta bombs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -100,7 +100,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22785,
+          "optionID" : 38611,
           "optionName" : "Executioner Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -110,7 +110,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22786,
+          "optionID" : 38612,
           "optionName" : "Power Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -121,7 +121,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 100.0,
-        "unitID" : 22787,
+        "unitID" : 38613,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -129,10 +129,72 @@
           "Command points" : 0
         }
       }, {
+        "unitName" : "Show Stratagems",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 38614,
+          "optionName" : "General",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 38615,
+          "optionName" : "Culexus",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 38616,
+          "optionName" : "Callidus",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 38617,
+          "optionName" : "Vindicare",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 38618,
+          "optionName" : "Eversor",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Other",
+        "unitCost" : 0.0,
+        "unitID" : 38619,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
         "unitName" : "Vindicare Assassin",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 22788,
+          "optionID" : 38620,
           "optionName" : "Blind Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -142,7 +204,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22789,
+          "optionID" : 38621,
           "optionName" : "Exitus Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -152,7 +214,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 22790,
+          "optionID" : 38622,
           "optionName" : "Exitus Rifle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -163,7 +225,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 100.0,
-        "unitID" : 22791,
+        "unitID" : 38623,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
