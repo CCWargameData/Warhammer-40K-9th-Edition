@@ -3,50 +3,6 @@
     "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "Rogue Psyker",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 12742,
-          "optionName" : "Laspistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5824,
-          "optionName" : "Chaos stave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 38517,
-          "optionName" : "Smite",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 35.0,
-        "unitID" : 5826,
-        "autoAddDictionary" : {
-          "5824" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "Traitor Commissar",
         "listOfOptions" : [ {
           "optionCost" : 10.0,
@@ -165,30 +121,6 @@
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Autogun",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 5838,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Warlord",
-        "listOfOptions" : null,
-        "unitCategory" : "",
-        "unitCost" : 0.0,
-        "unitID" : 5839,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
           "Command points" : 0
         }
       }, {
@@ -404,40 +336,6 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "Chaos Beastmen",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 5860,
-          "optionName" : "Chaos Beastman",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 38592,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 26.0,
-        "unitID" : 5862,
-        "autoAddDictionary" : {
-          "5860" : 4
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 1,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "Negavolt Cultists",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
@@ -503,60 +401,6 @@
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Black Legionnaires",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 39037,
-          "optionName" : "Boltgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 38590,
-          "optionName" : "Bolt pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 38592,
-          "optionName" : "Frag & Krak grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5872,
-          "optionName" : "Black Legionnaire",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "",
-        "unitCost" : 28.0,
-        "unitID" : 5873,
-        "autoAddDictionary" : {
-          "5872" : 2
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 1,
           "Command points" : 0
         }
       } ],
