@@ -7,7 +7,7 @@
         "listOfOptions" : null,
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 6623,
+        "unitID" : 7006,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -17,8 +17,55 @@
       }, {
         "unitName" : "Fallen",
         "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 24864,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 32985,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
-          "optionID" : 39043,
+          "optionID" : 7012,
+          "optionName" : "$Fallen Champion Equipment",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 7013,
+          "optionName" : "Missile launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 14.0,
+          "optionID" : 7014,
+          "optionName" : "Fallen w/ chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 40865,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -28,7 +75,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 39037,
+          "optionID" : 40859,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -37,15 +84,8 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 6629,
-          "optionName" : "$Fallen Champion Equipment",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 14.0,
-          "optionID" : 6630,
+          "optionID" : 7017,
           "optionName" : "Fallen w/ heavy or special weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -55,7 +95,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 38590,
+          "optionID" : 40393,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -64,8 +104,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 15.0,
+          "optionID" : 7019,
+          "optionName" : "Autocannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
-          "optionID" : 38590,
+          "optionID" : 40393,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -75,7 +125,7 @@
           }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 6633,
+          "optionID" : 7021,
           "optionName" : "Fallen w/ boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -85,7 +135,7 @@
           }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 6634,
+          "optionID" : 7022,
           "optionName" : "Fallen Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -95,7 +145,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 38592,
+          "optionID" : 40395,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -105,7 +155,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 38592,
+          "optionID" : 40395,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -114,11 +164,31 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 14.0,
-          "optionID" : 6637,
-          "optionName" : "Fallen w/ chainsword",
+          "optionCost" : 10.0,
+          "optionID" : 23954,
+          "optionName" : "Meltagun",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 11.0,
+          "optionID" : 40856,
+          "optionName" : "Plasma gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 24934,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -126,7 +196,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 6638,
+        "unitID" : 7028,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -137,7 +207,7 @@
         "unitName" : "Cypher",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6660,
+          "optionID" : 7050,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -147,7 +217,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6641,
+          "optionID" : 7031,
           "optionName" : "Cypher's plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -157,7 +227,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 38592,
+          "optionID" : 40395,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -167,7 +237,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6643,
+          "optionID" : 7033,
           "optionName" : "Cypher's bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -178,10 +248,10 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 85.0,
-        "unitID" : 6644,
+        "unitID" : 7034,
         "autoAddDictionary" : {
-          "6641" : 1,
-          "6643" : 1
+          "7033" : 1,
+          "7031" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -192,7 +262,7 @@
         "unitName" : "Specialist Detachment",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6647,
+          "optionID" : 7037,
           "optionName" : "$Specialist Detachments",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -200,7 +270,7 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 6648,
+        "unitID" : 7038,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -211,7 +281,7 @@
         "unitName" : "Chaos Rhino",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6651,
+          "optionID" : 7041,
           "optionName" : "Smoke Launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -221,14 +291,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6652,
+          "optionID" : 7042,
           "optionName" : "$Combi-weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 38013,
+          "optionID" : 39783,
           "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -238,7 +308,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 6654,
+          "optionID" : 7044,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -249,7 +319,7 @@
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 75.0,
-        "unitID" : 6655,
+        "unitID" : 7045,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -260,28 +330,28 @@
         "unitName" : "Sorcerer",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6656,
+          "optionID" : 7046,
           "optionName" : "$Pistols",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6657,
+          "optionID" : 7047,
           "optionName" : "$Combi-weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6658,
+          "optionID" : 7048,
           "optionName" : "$Dark Hereticus discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 28.0,
-          "optionID" : 6659,
+          "optionID" : 7049,
           "optionName" : "Jump Pack",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -291,7 +361,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6660,
+          "optionID" : 7050,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -301,21 +371,21 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6661,
+          "optionID" : 7051,
           "optionName" : "$Artefacts of Chaos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6662,
+          "optionID" : 7052,
           "optionName" : "$Melee Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 38517,
+          "optionID" : 40320,
           "optionName" : "Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -325,7 +395,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6664,
+          "optionID" : 7054,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -333,7 +403,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 90.0,
-        "unitID" : 6665,
+        "unitID" : 7055,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -345,7 +415,7 @@
         "listOfOptions" : null,
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 6667,
+        "unitID" : 7057,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -356,7 +426,7 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 34547,
+          "optionID" : 36182,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -366,7 +436,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 38760,
+          "optionID" : 40566,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -379,7 +449,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6670,
+          "optionID" : 7060,
           "optionName" : "6. Exalted Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -389,7 +459,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6671,
+          "optionID" : 7061,
           "optionName" : "2. Flames of Spite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -399,7 +469,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6672,
+          "optionID" : 7062,
           "optionName" : "5. Lord of Terror",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -409,7 +479,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6673,
+          "optionID" : 7063,
           "optionName" : "3. Unholy Fortitude",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -419,7 +489,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6674,
+          "optionID" : 7064,
           "optionName" : "1. Eternal Vendetta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -429,7 +499,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6675,
+          "optionID" : 7065,
           "optionName" : "4. Hatred Incarnate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -442,7 +512,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 3.0,
-          "optionID" : 38013,
+          "optionID" : 39783,
           "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -452,7 +522,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 35199,
+          "optionID" : 36834,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -462,7 +532,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 35215,
+          "optionID" : 36850,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -474,18 +544,8 @@
         "equipmentName" : "$Combi-weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 7.0,
-          "optionID" : 34312,
-          "optionName" : "Lightning Claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 1.0,
-          "optionID" : 6680,
+          "optionID" : 7069,
           "optionName" : "Chainaxe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -495,7 +555,67 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 34547,
+          "optionID" : 43493,
+          "optionName" : "Chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 36834,
+          "optionName" : "Combi-flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 21711,
+          "optionName" : "Combi-plasma",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 4.0,
+          "optionID" : 40860,
+          "optionName" : "Power maul",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 40859,
+          "optionName" : "Boltgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 7.0,
+          "optionID" : 35947,
+          "optionName" : "Lightning Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 36182,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -505,7 +625,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 39032,
+          "optionID" : 40854,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -514,18 +634,8 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 41579,
-          "optionName" : "Chainsword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 10.0,
-          "optionID" : 38229,
+          "optionID" : 40016,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -534,8 +644,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 3.0,
+          "optionID" : 39783,
+          "optionName" : "Combi-bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 38760,
+          "optionID" : 40566,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -545,7 +665,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 41609,
+          "optionID" : 43525,
           "optionName" : "Power axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -554,9 +674,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 4.0,
-          "optionID" : 39038,
-          "optionName" : "Power maul",
+          "optionCost" : 15.0,
+          "optionID" : 36850,
+          "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -568,7 +688,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6688,
+          "optionID" : 7083,
           "optionName" : "Diabolic Strength",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -578,7 +698,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6689,
+          "optionID" : 7084,
           "optionName" : "Warptime",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -588,7 +708,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6690,
+          "optionID" : 7085,
           "optionName" : "Infernal Gaze",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -598,7 +718,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6691,
+          "optionID" : 7086,
           "optionName" : "Prescience",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -608,7 +728,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6692,
+          "optionID" : 7087,
           "optionName" : "Gift of Chaos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -618,7 +738,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6693,
+          "optionID" : 7088,
           "optionName" : "Death Hex",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -631,7 +751,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6694,
+          "optionID" : 7089,
           "optionName" : "Fallen Angels",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -644,7 +764,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6695,
+          "optionID" : 7090,
           "optionName" : "Ul'o'cca, The Black Axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -654,7 +774,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6696,
+          "optionID" : 7091,
           "optionName" : "The Murder Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -664,7 +784,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6697,
+          "optionID" : 7092,
           "optionName" : "Caliban Steel Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -674,7 +794,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6698,
+          "optionID" : 7093,
           "optionName" : "The Black Mace",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -687,7 +807,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 7.0,
-          "optionID" : 34312,
+          "optionID" : 35947,
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -697,7 +817,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 35526,
+          "optionID" : 37161,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -707,7 +827,7 @@
           }
         }, {
           "optionCost" : 1.0,
-          "optionID" : 6701,
+          "optionID" : 7096,
           "optionName" : "Chainaxe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -717,7 +837,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 39032,
+          "optionID" : 40854,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -727,7 +847,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 41579,
+          "optionID" : 43493,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -737,7 +857,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 38229,
+          "optionID" : 40016,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -747,7 +867,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 41609,
+          "optionID" : 43525,
           "optionName" : "Power axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -760,7 +880,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6706,
+          "optionID" : 7101,
           "optionName" : "6. Exalted Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -770,7 +890,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6707,
+          "optionID" : 7102,
           "optionName" : "2. Flames of Spite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -780,7 +900,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6708,
+          "optionID" : 7103,
           "optionName" : "5. Lord of Terror",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -790,7 +910,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6709,
+          "optionID" : 7104,
           "optionName" : "3. Unholy Fortitude",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -800,7 +920,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6710,
+          "optionID" : 7105,
           "optionName" : "1. Eternal Vendetta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -810,7 +930,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6711,
+          "optionID" : 7106,
           "optionName" : "4. Hatred Incarnate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
