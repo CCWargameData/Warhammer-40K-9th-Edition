@@ -3,45 +3,10 @@
     "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "The Archivist",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 44085,
-          "optionName" : "Eradicator glove",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 44086,
-          "optionName" : "Atomic dissassembler",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 90.0,
-        "unitID" : 44087,
-        "autoAddDictionary" : {
-          "44085" : 1,
-          "44086" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "Spindle Drones",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 44088,
+          "optionID" : 47430,
           "optionName" : "Spindle Drone",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -52,61 +17,13 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 65.0,
-        "unitID" : 44089,
+        "unitID" : 47431,
         "autoAddDictionary" : {
-          "44088" : 4
+          "47430" : 4
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Ambull",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 44090,
-          "optionName" : "Enormous claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 75.0,
-        "unitID" : 44091,
-        "autoAddDictionary" : {
-          "44090" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "Borewyrm Infestations",
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 44092,
-          "optionName" : "Borewyrm Infestation",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 1,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 0.0,
-        "unitID" : 44093,
-        "autoAddDictionary" : {
-          "44092" : 1
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 0,
           "Command points" : 0
         }
       } ],
