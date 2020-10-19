@@ -3,22 +3,10 @@
     "gameName" : "Warhammer 40k 9th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "Daemonic Ammunition",
-        "listOfOptions" : null,
-        "unitCategory" : "Other",
-        "unitCost" : 0.0,
-        "unitID" : 2778,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : -1
-        }
-      }, {
         "unitName" : "Cerastus Knight-Castigator",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2780,
+          "optionID" : 1915,
           "optionName" : "Tempest warblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -28,7 +16,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2167,
+          "optionName" : "Character (Tyrannical Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -38,7 +36,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2782,
+          "optionID" : 1918,
           "optionName" : "Castigator bolt cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -48,14 +46,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2783,
+          "optionID" : 1919,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -65,7 +63,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -75,7 +73,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -85,28 +83,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2787,
+          "optionID" : 1923,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2788,
+          "optionID" : 1924,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2789,
+          "optionID" : 1925,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -116,7 +114,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -124,17 +122,10 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2792,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 460.0,
-        "unitID" : 2793,
+        "unitID" : 1928,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -145,7 +136,17 @@
         "unitName" : "Questoris Knight Magaera",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2167,
+          "optionName" : "Character (Tyrannical Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -155,7 +156,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2795,
+          "optionID" : 1931,
           "optionName" : "Lightning cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -165,14 +166,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2796,
+          "optionID" : 1932,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 2797,
+          "optionID" : 1933,
           "optionName" : "Reaper chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -182,7 +183,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -192,7 +193,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -202,7 +203,7 @@
           }
         }, {
           "optionCost" : 55.0,
-          "optionID" : 2905,
+          "optionID" : 2035,
           "optionName" : "Hekaton siege claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -212,7 +213,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -222,7 +223,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2802,
+          "optionID" : 1938,
           "optionName" : "Phased plasma-fusil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -232,28 +233,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2803,
+          "optionID" : 1939,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2804,
+          "optionID" : 1940,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2805,
+          "optionID" : 1941,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -263,7 +264,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -271,17 +272,10 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2808,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 435.0,
-        "unitID" : 2809,
+        "unitID" : 1944,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -292,21 +286,14 @@
         "unitName" : "Knight Despoiler",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2813,
-          "optionName" : "$Corrupted Heirloom",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2814,
+          "optionID" : 1947,
           "optionName" : "$Carapace Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 105.0,
-          "optionID" : 2815,
+          "optionID" : 1948,
           "optionName" : "Rapid-fire battle cannon and heavy stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -316,7 +303,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3045,
+          "optionID" : 2167,
           "optionName" : "Character (Tyrannical Court)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -326,7 +313,7 @@
           }
         }, {
           "optionCost" : 75.0,
-          "optionID" : 2817,
+          "optionID" : 1950,
           "optionName" : "Thermal cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -336,7 +323,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -346,14 +333,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2819,
+          "optionID" : 1952,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 2820,
+          "optionID" : 1953,
           "optionName" : "Reaper chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -363,7 +350,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -373,7 +360,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -383,7 +370,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -393,7 +380,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3052,
+          "optionID" : 2174,
           "optionName" : "Corrupted Heirloom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -403,21 +390,21 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2825,
+          "optionID" : 1958,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2826,
+          "optionID" : 1959,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 2827,
+          "optionID" : 1960,
           "optionName" : "Thunderstrike gauntlet",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -427,14 +414,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2828,
+          "optionID" : 1961,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 90.0,
-          "optionID" : 2829,
+          "optionID" : 1962,
           "optionName" : "Avenger gatling cannon and heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -444,7 +431,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -454,7 +441,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 25094,
+          "optionID" : 23954,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -464,7 +451,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -472,17 +459,10 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2833,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 330.0,
-        "unitID" : 2834,
+        "unitID" : 1966,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -494,7 +474,7 @@
         "listOfOptions" : null,
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 2835,
+        "unitID" : 1967,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -505,7 +485,7 @@
         "unitName" : "Acastus Knight Porphyrion",
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 25999,
+          "optionID" : 24864,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -515,7 +495,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2167,
+          "optionName" : "Character (Tyrannical Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -525,7 +515,7 @@
           }
         }, {
           "optionCost" : 45.0,
-          "optionID" : 2840,
+          "optionID" : 1973,
           "optionName" : "Helios defence missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -535,14 +525,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2841,
+          "optionID" : 1974,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -552,7 +542,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -562,7 +552,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -572,28 +562,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2845,
+          "optionID" : 1978,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2846,
+          "optionID" : 1979,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2847,
+          "optionID" : 1980,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 7736,
+          "optionID" : 7019,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -603,7 +593,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -613,7 +603,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2850,
+          "optionID" : 1983,
           "optionName" : "Twin magna lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -623,7 +613,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -632,15 +622,8 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 2852,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 15.0,
-          "optionID" : 2853,
+          "optionID" : 1985,
           "optionName" : "Ironstorm missile pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -651,7 +634,7 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 820.0,
-        "unitID" : 2854,
+        "unitID" : 1986,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -661,15 +644,8 @@
       }, {
         "unitName" : "Knight Desecrator",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2856,
-          "optionName" : "$Corrupted Heirloom",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 30.0,
-          "optionID" : 2857,
+          "optionID" : 1988,
           "optionName" : "Reaper chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -679,7 +655,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3045,
+          "optionID" : 2167,
           "optionName" : "Character (Tyrannical Court)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -689,7 +665,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2859,
+          "optionID" : 1990,
           "optionName" : "Laser destructor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -699,7 +675,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -709,7 +685,7 @@
           }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 2861,
+          "optionID" : 1992,
           "optionName" : "Thunderstrike gauntlet",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -719,14 +695,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2862,
+          "optionID" : 1993,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -736,7 +712,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -746,7 +722,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -756,7 +732,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3052,
+          "optionID" : 2174,
           "optionName" : "Corrupted Heirloom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -766,28 +742,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2867,
+          "optionID" : 1998,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2868,
+          "optionID" : 1999,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2869,
+          "optionID" : 2000,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -797,7 +773,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -805,19 +781,12 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2872,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 370.0,
-        "unitID" : 2873,
+        "unitID" : 2003,
         "autoAddDictionary" : {
-          "2859" : 1
+          "1990" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -828,7 +797,7 @@
         "unitName" : "Tyrannical Court",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2877,
+          "optionID" : 2007,
           "optionName" : "Two models",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -838,7 +807,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2878,
+          "optionID" : 2008,
           "optionName" : "One model",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -849,9 +818,9 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 2879,
+        "unitID" : 2009,
         "autoAddDictionary" : {
-          "2878" : 1
+          "2008" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -862,7 +831,17 @@
         "unitName" : "Cerastus Knight-Acheron",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2882,
+          "optionID" : 2167,
+          "optionName" : "Character (Tyrannical Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2013,
           "optionName" : "Reaper chainfist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -872,7 +851,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -882,14 +861,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2884,
+          "optionID" : 2015,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -899,7 +878,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -909,7 +888,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2887,
+          "optionID" : 2018,
           "optionName" : "Acheron flame cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -919,7 +898,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -929,28 +908,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2889,
+          "optionID" : 2020,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2890,
+          "optionID" : 2021,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2891,
+          "optionID" : 2022,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -960,7 +939,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -968,17 +947,10 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2894,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 520.0,
-        "unitID" : 2895,
+        "unitID" : 2025,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -988,8 +960,18 @@
       }, {
         "unitName" : "Questoris Knight Styrix",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 2167,
+          "optionName" : "Character (Tyrannical Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 30.0,
-          "optionID" : 2900,
+          "optionID" : 2030,
           "optionName" : "Reaper chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -999,7 +981,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1009,14 +991,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2902,
+          "optionID" : 2032,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1026,7 +1008,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1036,7 +1018,7 @@
           }
         }, {
           "optionCost" : 55.0,
-          "optionID" : 2905,
+          "optionID" : 2035,
           "optionName" : "Hekaton siege claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1046,7 +1028,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1056,28 +1038,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2907,
+          "optionID" : 2037,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2908,
+          "optionID" : 2038,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2909,
+          "optionID" : 2039,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1087,7 +1069,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2911,
+          "optionID" : 2041,
           "optionName" : "Graviton crusher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1097,7 +1079,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2912,
+          "optionID" : 2042,
           "optionName" : "Volkite chieorovile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1107,7 +1089,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1115,17 +1097,10 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2914,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 420.0,
-        "unitID" : 2915,
+        "unitID" : 2044,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1137,7 +1112,7 @@
         "listOfOptions" : null,
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 2917,
+        "unitID" : 2046,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1148,7 +1123,7 @@
         "unitName" : "War Dogs Moirax",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2920,
+          "optionID" : 2048,
           "optionName" : "Moirax siege claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1158,7 +1133,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 2921,
+          "optionID" : 2049,
           "optionName" : "Moirax conversion beam cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1168,7 +1143,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1178,14 +1153,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2923,
+          "optionID" : 2051,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1195,7 +1170,7 @@
           }
         }, {
           "optionCost" : 155.0,
-          "optionID" : 2925,
+          "optionID" : 2053,
           "optionName" : "War Dog Moirax",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1205,7 +1180,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1215,28 +1190,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2927,
+          "optionID" : 2055,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2928,
+          "optionID" : 2056,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2929,
+          "optionID" : 2057,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2930,
+          "optionID" : 2058,
           "optionName" : "Graviton pulsar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1246,7 +1221,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2931,
+          "optionID" : 2059,
           "optionName" : "Volkite veuglaire",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1256,7 +1231,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1266,7 +1241,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2933,
+          "optionID" : 2061,
           "optionName" : "Lightning lock",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1276,7 +1251,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1284,19 +1259,12 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2935,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 0.0,
-        "unitID" : 2936,
+        "unitID" : 2063,
         "autoAddDictionary" : {
-          "2925" : 1
+          "2053" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1308,7 +1276,7 @@
         "listOfOptions" : null,
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 2942,
+        "unitID" : 2068,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1319,7 +1287,7 @@
         "unitName" : "Dread Household",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2943,
+          "optionID" : 2069,
           "optionName" : "$Dread Household",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1327,7 +1295,7 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 2944,
+        "unitID" : 2070,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1338,7 +1306,17 @@
         "unitName" : "Cerastus Knight-Atrapos",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2167,
+          "optionName" : "Character (Tyrannical Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1348,14 +1326,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2948,
+          "optionID" : 2075,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1365,7 +1343,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1375,7 +1353,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1385,7 +1363,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2952,
+          "optionID" : 2079,
           "optionName" : "Atrapos lascutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1395,28 +1373,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2953,
+          "optionID" : 2080,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2954,
+          "optionID" : 2081,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2955,
+          "optionID" : 2082,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1426,7 +1404,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2957,
+          "optionID" : 2084,
           "optionName" : "Graviton singularity cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1436,7 +1414,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1444,17 +1422,10 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2959,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 580.0,
-        "unitID" : 2960,
+        "unitID" : 2086,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1465,7 +1436,17 @@
         "unitName" : "Cerastus Knight-Lancer",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2167,
+          "optionName" : "Character (Tyrannical Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1475,14 +1456,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2963,
+          "optionID" : 2090,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1492,7 +1473,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1502,7 +1483,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1512,28 +1493,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2967,
+          "optionID" : 2094,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2968,
+          "optionID" : 2095,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2969,
+          "optionID" : 2096,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1543,7 +1524,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2971,
+          "optionID" : 2098,
           "optionName" : "Cerastus shock lance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1553,7 +1534,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1561,17 +1542,10 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2973,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 460.0,
-        "unitID" : 2974,
+        "unitID" : 2100,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1582,7 +1556,17 @@
         "unitName" : "Acastus Knight Asterius",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2975,
+          "optionID" : 2167,
+          "optionName" : "Character (Tyrannical Court)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2102,
           "optionName" : "Twin conversion beam cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1592,7 +1576,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1602,14 +1586,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2977,
+          "optionID" : 2104,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2978,
+          "optionID" : 2105,
           "optionName" : "Volkite culverin",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1619,7 +1603,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1629,7 +1613,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1639,7 +1623,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2981,
+          "optionID" : 2108,
           "optionName" : "Karacnos Mortar Battery",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1649,7 +1633,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1659,28 +1643,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2983,
+          "optionID" : 2110,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2984,
+          "optionID" : 2111,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2985,
+          "optionID" : 2112,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1690,7 +1674,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1698,21 +1682,14 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2988,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 850.0,
-        "unitID" : 2989,
+        "unitID" : 2115,
         "autoAddDictionary" : {
-          "2975" : 2,
-          "2981" : 1,
-          "2978" : 2
+          "2108" : 1,
+          "2105" : 2,
+          "2102" : 2
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1723,7 +1700,28 @@
         "unitName" : "War Dogs",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2121,
+          "optionName" : "$Artefacts of Tyranny",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2122,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2123,
+          "optionName" : "$Dreadblade Pacts",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1733,7 +1731,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2996,
+          "optionID" : 2125,
           "optionName" : "Thermal spear and Reaper chain-cleaver",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1743,55 +1741,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2997,
+          "optionID" : 2126,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 150.0,
-          "optionID" : 2998,
-          "optionName" : "War Dog",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 9,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
-          "optionName" : "Character (Traitoris Lance)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3000,
-          "optionName" : "$Artefacts of Tyranny",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3001,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3002,
-          "optionName" : "$Dreadblade Pacts",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1801,7 +1758,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 25094,
+          "optionID" : 23954,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1811,7 +1768,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 3005,
+          "optionID" : 2129,
           "optionName" : "Two War Dog autocannons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1820,9 +1777,19 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 150.0,
+          "optionID" : 2130,
+          "optionName" : "War Dog",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 9,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
-          "optionName" : "Warlord",
+          "optionID" : 2173,
+          "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1831,17 +1798,20 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3007,
-          "optionName" : "$Iconoclast Vows",
+          "optionID" : 2180,
+          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 0.0,
-        "unitID" : 3008,
+        "unitID" : 2133,
         "autoAddDictionary" : {
-          "2998" : 1
+          "2130" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -1852,7 +1822,7 @@
         "unitName" : "Corrupted Heirlooms",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3009,
+          "optionID" : 2134,
           "optionName" : "One model",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1862,7 +1832,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3010,
+          "optionID" : 2135,
           "optionName" : "Two models",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1873,9 +1843,9 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 3011,
+        "unitID" : 2136,
         "autoAddDictionary" : {
-          "3009" : 1
+          "2134" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -1886,14 +1856,7 @@
         "unitName" : "Knight Tyrant",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3019,
-          "optionName" : "$Corrupted Heirloom",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3045,
+          "optionID" : 2167,
           "optionName" : "Character (Tyrannical Court)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1903,7 +1866,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1913,7 +1876,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3022,
+          "optionID" : 2146,
           "optionName" : "Conflagration cannon and Thundercoil harpoon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1923,14 +1886,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3023,
+          "optionID" : 2147,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 3024,
+          "optionID" : 2148,
           "optionName" : "Two Shieldbreaker missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1940,7 +1903,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1950,7 +1913,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1960,7 +1923,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1970,7 +1933,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3028,
+          "optionID" : 2152,
           "optionName" : "2x Twin Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1980,7 +1943,7 @@
           }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 3029,
+          "optionID" : 2153,
           "optionName" : "Twin siegebreaker cannons",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1990,7 +1953,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3052,
+          "optionID" : 2174,
           "optionName" : "Corrupted Heirloom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2000,28 +1963,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3031,
+          "optionID" : 2155,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3032,
+          "optionID" : 2156,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3033,
+          "optionID" : 2157,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3034,
+          "optionID" : 2158,
           "optionName" : "Plasma decimator and Volcano lance",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2031,7 +1994,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2041,7 +2004,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2049,19 +2012,12 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3037,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 535.0,
-        "unitID" : 3038,
+        "unitID" : 2161,
         "autoAddDictionary" : {
-          "3028" : 1
+          "2152" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2072,14 +2028,7 @@
         "unitName" : "Knight Rampager",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3044,
-          "optionName" : "$Corrupted Heirloom",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3045,
+          "optionID" : 2167,
           "optionName" : "Character (Tyrannical Court)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2089,7 +2038,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3046,
+          "optionID" : 2168,
           "optionName" : "Pacts and Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2099,14 +2048,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3047,
+          "optionID" : 2169,
           "optionName" : "$Dreadblade Damnations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3048,
+          "optionID" : 2170,
           "optionName" : "Rune Pact and Damnation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2116,7 +2065,7 @@
           }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 3049,
+          "optionID" : 2171,
           "optionName" : "Thunderstrike gauntlet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2126,7 +2075,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3050,
+          "optionID" : 2172,
           "optionName" : "Titanic feet",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2136,7 +2085,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3051,
+          "optionID" : 2173,
           "optionName" : "Character (Traitoris Lance)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2146,7 +2095,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3052,
+          "optionID" : 2174,
           "optionName" : "Corrupted Heirloom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2156,28 +2105,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3053,
+          "optionID" : 2175,
           "optionName" : "$Artefacts of Tyranny",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3054,
+          "optionID" : 2176,
           "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3055,
+          "optionID" : 2177,
           "optionName" : "$Dreadblade Pacts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3056,
+          "optionID" : 2178,
           "optionName" : "Dreadblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2187,7 +2136,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 3057,
+          "optionID" : 2179,
           "optionName" : "Reaper chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2197,7 +2146,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3058,
+          "optionID" : 2180,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2205,20 +2154,13 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3059,
-          "optionName" : "$Iconoclast Vows",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 345.0,
-        "unitID" : 3060,
+        "unitID" : 2181,
         "autoAddDictionary" : {
-          "3049" : 1,
-          "3057" : 1
+          "2179" : 1,
+          "2171" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2229,7 +2171,7 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3065,
+          "optionID" : 2186,
           "optionName" : "Endless Torment (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2239,7 +2181,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3066,
+          "optionID" : 2187,
           "optionName" : "Bold Tyrants",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2249,7 +2191,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3067,
+          "optionID" : 2188,
           "optionName" : "Warp Vision (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2259,7 +2201,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3068,
+          "optionID" : 2189,
           "optionName" : "Hellforged Construction (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2269,7 +2211,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3069,
+          "optionID" : 2190,
           "optionName" : "Frenzied Attackers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2279,7 +2221,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3070,
+          "optionID" : 2191,
           "optionName" : "Unhallowed Inscriptions",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2289,7 +2231,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3071,
+          "optionID" : 2192,
           "optionName" : "Pride-fuelled Fury",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2299,7 +2241,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3072,
+          "optionID" : 2193,
           "optionName" : "Harrying Packs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2309,7 +2251,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3073,
+          "optionID" : 2194,
           "optionName" : "Heretical System-bond (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2319,7 +2261,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3074,
+          "optionID" : 2195,
           "optionName" : "Slayers of Kings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2329,7 +2271,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3075,
+          "optionID" : 2196,
           "optionName" : "Enlightened Idolators (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2339,7 +2281,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3076,
+          "optionID" : 2197,
           "optionName" : "Gheists of Ruin (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2349,7 +2291,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3077,
+          "optionID" : 2198,
           "optionName" : "Hate-driven Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2359,7 +2301,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 2199,
           "optionName" : "Pinpoint Cruelty",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2369,7 +2311,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3079,
+          "optionID" : 2200,
           "optionName" : "Loathing for the Masses",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2379,7 +2321,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3080,
+          "optionID" : 2201,
           "optionName" : "Infamous Heredity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2389,7 +2331,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3081,
+          "optionID" : 2202,
           "optionName" : "Dark Forging",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2399,7 +2341,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3082,
+          "optionID" : 2203,
           "optionName" : "Abominable Constitution",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2409,7 +2351,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3083,
+          "optionID" : 2204,
           "optionName" : "Vengeful Outcasts (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2419,7 +2361,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3084,
+          "optionID" : 2205,
           "optionName" : "Rapid Offense",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2431,201 +2373,8 @@
         "equipmentName" : "$Dread Household"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 3118,
-          "optionName" : "Tzeentchian Pyrothrone",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3119,
-          "optionName" : "The Diamonas",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3120,
-          "optionName" : "The Putrid Carapace of Nurgle",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3121,
-          "optionName" : "Annihilatum",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3122,
-          "optionName" : "Daemonic Shrike",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3123,
-          "optionName" : "Veil of Medrengard",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3124,
-          "optionName" : "The Tyrant's Banner",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3125,
-          "optionName" : "The Teeth That Hunger",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3126,
-          "optionName" : "Khornate Target",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3127,
-          "optionName" : "Heretek Power Core",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3128,
-          "optionName" : "The Traitor's Mark",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3129,
-          "optionName" : "Rune of Nak'T'Graa",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3130,
-          "optionName" : "The Blasphemous Engine",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3131,
-          "optionName" : "The Gauntlet of Ascension",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3132,
-          "optionName" : "Helm of Warpsight",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3133,
-          "optionName" : "The Quicksilver Throne of Slaanesh",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3134,
-          "optionName" : "Crown of Jedathra",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3135,
-          "optionName" : "Serpentstrike",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3136,
-          "optionName" : "Bound Varadian Psychogheist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Corrupted Heirloom"
-      }, {
-        "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 3104,
+          "optionID" : 2206,
           "optionName" : "Ironstorm Missile Pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2635,7 +2384,7 @@
           }
         }, {
           "optionCost" : 45.0,
-          "optionID" : 3105,
+          "optionID" : 2207,
           "optionName" : "Stormspear Rocket Pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2645,7 +2394,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 3106,
+          "optionID" : 2208,
           "optionName" : "Twin Icarus Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2658,7 +2407,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3107,
+          "optionID" : 2209,
           "optionName" : "Maddened Cries",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2668,7 +2417,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3108,
+          "optionID" : 2210,
           "optionName" : "2. Harbinger of Scrapcode",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2678,7 +2427,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3109,
+          "optionID" : 2211,
           "optionName" : "3. Knight Diabolus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2688,7 +2437,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3110,
+          "optionID" : 2212,
           "optionName" : "Dread Hunter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2698,7 +2447,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3111,
+          "optionID" : 2213,
           "optionName" : "Strike First, Strike Often",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2708,7 +2457,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3112,
+          "optionID" : 2214,
           "optionName" : "6. Aura of Terror",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2718,7 +2467,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3113,
+          "optionID" : 2215,
           "optionName" : "4. Warp-haunted Hull",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2728,7 +2477,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3114,
+          "optionID" : 2216,
           "optionName" : "5. Eager for the Kill",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2738,7 +2487,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3115,
+          "optionID" : 2217,
           "optionName" : "Favour of the Dark Mechanicum",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2748,7 +2497,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3116,
+          "optionID" : 2218,
           "optionName" : "Bound to None",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2758,7 +2507,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3117,
+          "optionID" : 2219,
           "optionName" : "1. Infernal Quest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2771,7 +2520,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3118,
+          "optionID" : 2220,
           "optionName" : "Tzeentchian Pyrothrone",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2781,7 +2530,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3119,
+          "optionID" : 2221,
           "optionName" : "The Diamonas",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2791,7 +2540,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3120,
+          "optionID" : 2222,
           "optionName" : "The Putrid Carapace of Nurgle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2801,7 +2550,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3121,
+          "optionID" : 2223,
           "optionName" : "Annihilatum",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2811,17 +2560,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3122,
-          "optionName" : "Daemonic Shrike",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3123,
+          "optionID" : 2224,
           "optionName" : "Veil of Medrengard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2831,7 +2570,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3124,
+          "optionID" : 2225,
           "optionName" : "The Tyrant's Banner",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2841,7 +2580,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3125,
+          "optionID" : 2226,
           "optionName" : "The Teeth That Hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2851,7 +2590,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2227,
           "optionName" : "Khornate Target",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2861,17 +2600,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3127,
-          "optionName" : "Heretek Power Core",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3128,
+          "optionID" : 2228,
           "optionName" : "The Traitor's Mark",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2881,7 +2610,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3129,
+          "optionID" : 2229,
+          "optionName" : "Daemonic Shrike",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2230,
           "optionName" : "Rune of Nak'T'Graa",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2891,7 +2630,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3130,
+          "optionID" : 2231,
           "optionName" : "The Blasphemous Engine",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2901,7 +2640,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3131,
+          "optionID" : 2232,
           "optionName" : "The Gauntlet of Ascension",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2911,27 +2650,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3132,
-          "optionName" : "Helm of Warpsight",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3133,
-          "optionName" : "The Quicksilver Throne of Slaanesh",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3134,
+          "optionID" : 2233,
           "optionName" : "Crown of Jedathra",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2941,7 +2660,37 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3135,
+          "optionID" : 2234,
+          "optionName" : "Heretek Power Core",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2235,
+          "optionName" : "Helm of Warpsight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2236,
+          "optionName" : "The Quicksilver Throne of Slaanesh",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2237,
           "optionName" : "Serpentstrike",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2951,7 +2700,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3136,
+          "optionID" : 2238,
           "optionName" : "Bound Varadian Psychogheist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2964,7 +2713,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3137,
+          "optionID" : 2239,
           "optionName" : "2. Harbinger of Scrapcode",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2974,7 +2723,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3138,
+          "optionID" : 2240,
           "optionName" : "3. Knight Diabolus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2984,7 +2733,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3139,
+          "optionID" : 2241,
           "optionName" : "6. Aura of Terror",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2994,7 +2743,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3140,
+          "optionID" : 2242,
           "optionName" : "4. Warp-haunted Hull",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3004,7 +2753,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3141,
+          "optionID" : 2243,
           "optionName" : "5. Eager for the Kill",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3014,7 +2763,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3142,
+          "optionID" : 2244,
           "optionName" : "1. Infernal Quest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3027,7 +2776,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3143,
+          "optionID" : 2245,
           "optionName" : "Endless Torment (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3037,7 +2786,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3144,
+          "optionID" : 2246,
           "optionName" : "Bold Tyrants",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3047,7 +2796,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3145,
+          "optionID" : 2247,
           "optionName" : "Warp Vision (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3057,7 +2806,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3146,
+          "optionID" : 2248,
           "optionName" : "Hellforged Construction (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3067,7 +2816,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3147,
+          "optionID" : 2249,
           "optionName" : "Frenzied Attackers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3077,7 +2826,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3148,
+          "optionID" : 2250,
           "optionName" : "Unhallowed Inscriptions",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3087,7 +2836,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3149,
+          "optionID" : 2251,
           "optionName" : "Pride-fuelled Fury",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3097,7 +2846,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3150,
+          "optionID" : 2252,
           "optionName" : "Harrying Packs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3107,7 +2856,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3151,
+          "optionID" : 2253,
           "optionName" : "Heretical System-bond (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3117,7 +2866,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3152,
+          "optionID" : 2254,
           "optionName" : "Slayers of Kings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3127,7 +2876,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3153,
+          "optionID" : 2255,
           "optionName" : "Enlightened Idolators (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3137,7 +2886,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3154,
+          "optionID" : 2256,
           "optionName" : "Gheists of Ruin (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3147,7 +2896,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3155,
+          "optionID" : 2257,
           "optionName" : "Hate-driven Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3157,7 +2906,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3156,
+          "optionID" : 2258,
           "optionName" : "Pinpoint Cruelty",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3167,7 +2916,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3157,
+          "optionID" : 2259,
           "optionName" : "Loathing for the Masses",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3177,7 +2926,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3158,
+          "optionID" : 2260,
           "optionName" : "Infamous Heredity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3187,7 +2936,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3159,
+          "optionID" : 2261,
           "optionName" : "Dark Forging",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3197,7 +2946,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3160,
+          "optionID" : 2262,
           "optionName" : "Abominable Constitution",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3207,7 +2956,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3161,
+          "optionID" : 2263,
           "optionName" : "Vengeful Outcasts (counts as 2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3217,7 +2966,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3162,
+          "optionID" : 2264,
           "optionName" : "Rapid Offense",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3230,7 +2979,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3163,
+          "optionID" : 2265,
           "optionName" : "Maddened Cries",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3240,7 +2989,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3164,
+          "optionID" : 2266,
           "optionName" : "Dread Hunter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3250,7 +2999,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3165,
+          "optionID" : 2267,
           "optionName" : "Strike First, Strike Often",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3260,7 +3009,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3166,
+          "optionID" : 2268,
           "optionName" : "Favour of the Dark Mechanicum",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3270,7 +3019,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3167,
+          "optionID" : 2269,
           "optionName" : "Bound to None",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3283,7 +3032,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3168,
+          "optionID" : 2270,
           "optionName" : "4. Knower of Profane Secrets",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3293,7 +3042,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3169,
+          "optionID" : 2271,
           "optionName" : "6. Arch-Fiend",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3303,7 +3052,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3170,
+          "optionID" : 2272,
           "optionName" : "3. Daemonic Vigour",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3313,7 +3062,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3171,
+          "optionID" : 2273,
           "optionName" : "5. Galvanised Hull",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3323,7 +3072,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3172,
+          "optionID" : 2274,
           "optionName" : "1. Path to Glory",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3333,7 +3082,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3173,
+          "optionID" : 2275,
           "optionName" : "2. Thunderous Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3346,7 +3095,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3174,
+          "optionID" : 2276,
           "optionName" : "4. Warp Fugue",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3356,7 +3105,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3175,
+          "optionID" : 2277,
           "optionName" : "5. Single-minded Hatred",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3366,7 +3115,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3176,
+          "optionID" : 2278,
           "optionName" : "2. Warp-rage",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3376,7 +3125,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3177,
+          "optionID" : 2279,
           "optionName" : "3. Volatile Reactor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3386,7 +3135,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3178,
+          "optionID" : 2280,
           "optionName" : "6. Defiant Machine-spirit",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3396,7 +3145,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3179,
+          "optionID" : 2281,
           "optionName" : "1. Forsaken",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3406,39 +3155,6 @@
           }
         } ],
         "equipmentName" : "$Dreadblade Damnations"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 3180,
-          "optionName" : "Vow of Dominance",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -2
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3181,
-          "optionName" : "Vow of the Beastslayer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3182,
-          "optionName" : "Vow of Carnage",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        } ],
-        "equipmentName" : "$Iconoclast Vows"
       } ],
       "armyName" : "Chaos Knights",
       "armyCategories" : [ ]
